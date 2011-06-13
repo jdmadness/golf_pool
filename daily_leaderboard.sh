@@ -27,5 +27,7 @@ done
 RESULTS=$RESULTS_DIR/LeaderboardDay$DAY.txt
 cat $TMP_RESULTS | sort -nk 2 > $RESULTS
 
+# TODO - handle ties
+
 # clean up
 rm -f $TMP_RESULTS

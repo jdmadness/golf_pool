@@ -41,5 +41,7 @@ done
 # sort results
 cat $TMP_RESULTS | sort -nk 2 > $RESULTS
 
+# TODO - handle ties
+
 # clean up
 rm -f $TMP_RESULTS
