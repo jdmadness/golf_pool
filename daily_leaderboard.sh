@@ -2,8 +2,8 @@
 
 if [ $# -lt 1 ]
 then
-     echo "Usage: $0 <day>"
-     exit
+  echo "Usage: $0 <day>"
+  exit
 fi
 
 # parameters
@@ -19,15 +19,15 @@ TMP_RESULTS=$RESULTS_DIR/.LeaderboardDay$DAY.txt
 touch $TMP_RESULTS
 for ENTRY in `find $SCORES_DIR -type f`
 do
-     NAME=`basename $ENTRY .txt`
-     echo "$NAME `fgrep Total $ENTRY | cut -d , -f $((DAY+1))`" >> $TMP_RESULTS
+  NAME=`basename $ENTRY .txt`
+  TOTAL=`fgrep Total $ENTRY | cut -d , -f $((DAY+1))`
+  TB=`fgrep TB$DAY $ENTRY | cut -d, -f2-`
+  echo "$NAME $TOTAL $TB" >> $TMP_RESULTS
 done
 
 # sort results
 RESULTS=$RESULTS_DIR/LeaderboardDay$DAY.txt
 cat $TMP_RESULTS | sort -nk 2 > $RESULTS
-
-# TODO - handle ties
 
 # clean up
 rm -f $TMP_RESULTS

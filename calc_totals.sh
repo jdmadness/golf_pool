@@ -26,12 +26,15 @@ MAX[4]=`cat $ALLSCORES | $MAXCMD 4`
 for FILE in `find $SCORES_DIR -type f`
 do
      NAME=`basename $FILE .txt`
-     OUTFILE=$SCORES_DIR/$NAME.txt
+     OUTFILE=$SCORES_DIR/${NAME}_tally.txt
      LINE="Total"
+     TB_LINES=""
      for DAY in 1 2 3 4
      do
           DAY_TOTAL=`cut -d , -f $((DAY+1)) $FILE | sed s/--/${MAX[$DAY]}/ | sort -n | head -n $TOPN | awk '{ acc += $0 } END { print acc }'`
           LINE="$LINE,$DAY_TOTAL"
+          echo "TB$DAY`cut -d , -f $((DAY+1)) $FILE | sed s/--/${MAX[$DAY]}/ | sort -n | awk '{ acc = acc "," $0 } END { print acc }'`" >> $OUTFILE
      done
-     echo $LINE >> $FILE
+     echo $LINE >> $OUTFILE
+     mv $OUTFILE $FILE
 done

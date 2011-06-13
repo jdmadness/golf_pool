@@ -21,7 +21,7 @@ touch $TMP_RESULTS
 if [ $DAY -eq 1 ]
 then
      cp $RESULTS_DIR/LeaderboardDay1.txt $TMP_RESULTS
-     cat $TMP_RESULTS | sort -nk 2 > $RESULTS
+     cat $TMP_RESULTS | sort -nk 2 | cut -d" " -f1,2 > $RESULTS
      rm -f $TMP_RESULTS
      exit
 fi
