@@ -1,40 +1,73 @@
 #!/bin/sh
 
-if [ $# -lt 1 ]
+if [ $# -lt 3 ]
 then
-     echo "Usage: $0 <topN>"
+     echo "Usage: $0 <tourney> <round> <topN>"
      exit
 fi
 
 # parameters
-TOPN=$1
+TOURNEY=$1
+DAY=$2
+TOPN=$3
 
 # dirs and files
 INSTALL_DIR="/Users/marshalj/test/golf_pool"
-ALLSCORES="$INSTALL_DIR/tmp_data/leaderboard.txt"
-SCORES_DIR="$INSTALL_DIR/scores"
-RESULTS_DIR="$INSTALL_DIR/results"
+ENTRIES_DIR="$INSTALL_DIR/entries/$TOURNEY"
+ALLSCORES="$INSTALL_DIR/data/$TOURNEY/leaderboard.txt"
+SCORES_DIR="$INSTALL_DIR/scores/$TOURNEY"
+RESULTS_DIR="$INSTALL_DIR/results/$TOURNEY"
+MAXSCORES="$INSTALL_DIR/results/$TOURNEY/max.txt"
 MAXCMD="$INSTALL_DIR/daily_max.sh"
 
+mkdir -p $SCORES_DIR
+mkdir -p $RESULTS_DIR
+touch $MAXSCORES
+
 # compute daily max
-MAX[1]=`cat $ALLSCORES | $MAXCMD 1`
-MAX[2]=`cat $ALLSCORES | $MAXCMD 2`
-MAX[3]=`cat $ALLSCORES | $MAXCMD 3`
-MAX[4]=`cat $ALLSCORES | $MAXCMD 4`
+MAX=`cat $ALLSCORES | $MAXCMD $DAY`
+echo "Rd$DAY,$MAX" >> $MAXSCORES
 
 # compute each entrant's daily scores
-for FILE in `find $SCORES_DIR -type f`
+for FILE in `find $ENTRIES_DIR -type f`
 do
      NAME=`basename $FILE .txt`
-     OUTFILE=$SCORES_DIR/${NAME}_tally.txt
-     LINE="Total"
-     TB_LINES=""
-     for DAY in 1 2 3 4
-     do
-          DAY_TOTAL=`cut -d , -f $((DAY+1)) $FILE | sed s/--/${MAX[$DAY]}/ | sort -n | head -n $TOPN | awk '{ acc += $0 } END { print acc }'`
-          LINE="$LINE,$DAY_TOTAL"
-          echo "TB$DAY`cut -d , -f $((DAY+1)) $FILE | sed s/--/${MAX[$DAY]}/ | sort -n | awk '{ acc = acc "," $0 } END { print acc }'`" >> $OUTFILE
-     done
-     echo $LINE >> $OUTFILE
-     mv $OUTFILE $FILE
+     TMP_FILE=$SCORES_DIR/.${NAME}_tmp.txt
+     PLAYER_FILE=$SCORES_DIR/$NAME.txt
+     PLAYER_TOTALS_FILE=$SCORES_DIR/${NAME}_totals.txt
+     DAY_TOTALS_FILE=$SCORES_DIR/${NAME}_day_totals.txt
+     DAY_TB_FILE=$SCORES_DIR/${NAME}_day_tiebreaker.txt
+     OVERALL_TB_FILE=$SCORES_DIR/${NAME}_overall_tiebreaker.txt
+
+     touch $DAY_TOTALS_FILE
+     touch $DAY_TB_FILE
+     touch $OVERALL_TB_FILE
+
+     # update player totals
+     echo "input file"
+     cat $PLAYER_FILE
+     cat $PLAYER_FILE | awk -F"," -v MAX=$MAX -v DAY=$DAY 'BEGIN{ max = MAX; day = DAY }{ acc = 0; for(i = 2; i <= day+1; i++) { if($i == "--") { acc += max } else { acc += $i } } print $1 "," acc}' > $TMP_FILE
+     mv $TMP_FILE $PLAYER_TOTALS_FILE
+     echo "output file"
+     cat $PLAYER_TOTALS_FILE
+
+     exit
+
+     # day total
+     cp $DAY_TOTALS_FILE $TMP_FILE
+     echo "Rd$DAY,`cut -d , -f $((DAY+1)) $PLAYER_FILE | sed s/--/${MAX}/ | sort -n | head -n $TOPN | awk '{ acc += $0 } END { print acc }'`" >> $TMP_FILE
+     cat $TMP_FILE | sort | uniq > $DAY_TOTALS_FILE
+
+     # day tie-breaker
+     cp $DAY_TB_FILE $TMP_FILE
+     echo "Rd$DAY`cut -d , -f $((DAY+1)) $PLAYER_FILE | sed s/--/${MAX}/ | sort -n | awk '{ acc = acc "," $0 } END { print acc }'`" >> $TMP_FILE
+     cat $TMP_FILE | sort | uniq > $DAY_TB_FILE
+
+     # overall tie-breaker
+     cp $OVERALL_TB_FILE $TMP_FILE
+     echo "Rd$DAY`cat $PLAYER_TOTALS_FILE | sort -n | awk -F"," -v FIELD=$((DAY+1)) 'BEGIN{ field = FIELD } { acc = acc "," $field } END { print acc }'`" >> $TMP_FILE
+     cat $TMP_FILE | sort | uniq > $OVERALL_TB_FILE
+    
+     # clean up
+     rm -rf $TMP_FILE
 done
