@@ -18,14 +18,15 @@ ALLSCORES="$DATA_DIR/leaderboard.txt"
 ENTRY_DIR="$INSTALL_DIR/entries/$TOURNEY"
 SCORES_DIR="$INSTALL_DIR/scores/$TOURNEY"
 
+mkdir -p $DATA_DIR
 mkdir -p $LEADERBOARD_DIR
 mkdir -p $SCORES_DIR
 
 # get data from website
-#curl -s $URL | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $ALLSCORES
+curl -s $URL | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $ALLSCORES
 
 # for testing
-cat $INSTALL_DIR/data/example.html | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $ALLSCORES
+#cat $INSTALL_DIR/data/example.html | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $ALLSCORES
 
 # get each entrant's scores
 for ENTRY in `find $ENTRY_DIR -type f`
