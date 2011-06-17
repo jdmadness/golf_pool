@@ -44,14 +44,8 @@ do
      touch $OVERALL_TB_FILE
 
      # update player totals
-     echo "input file"
-     cat $PLAYER_FILE
      cat $PLAYER_FILE | awk -F"," -v MAX=$MAX -v DAY=$DAY 'BEGIN{ max = MAX; day = DAY }{ acc = 0; for(i = 2; i <= day+1; i++) { if($i == "--") { acc += max } else { acc += $i } } print $1 "," acc}' > $TMP_FILE
      mv $TMP_FILE $PLAYER_TOTALS_FILE
-     echo "output file"
-     cat $PLAYER_TOTALS_FILE
-
-     exit
 
      # day total
      cp $DAY_TOTALS_FILE $TMP_FILE

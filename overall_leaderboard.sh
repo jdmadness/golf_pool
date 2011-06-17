@@ -16,6 +16,8 @@ ENTRIES_DIR="$INSTALL_DIR/entries/$TOURNEY"
 SCORES_DIR="$INSTALL_DIR/scores/$TOURNEY"
 RESULTS_DIR="$INSTALL_DIR/leaderboard/$TOURNEY"
 
+mkdir -p $RESULTS_DIR
+
 # get each entrant's daily results
 TMP_RESULTS=$RESULTS_DIR/.OverallRd$DAY.txt
 RESULTS=$RESULTS_DIR/OverallRd$DAY.txt
@@ -34,7 +36,7 @@ do
 done
 
 # sort results
-cat $TMP_RESULTS | sort -nk 2 > $RESULTS
+cat $TMP_RESULTS | sort -nk 2 | awk '{ printf "%10s\t%4d\t%s\n", $1, $2, $3 }' > $RESULTS
 
 # clean up
 rm -f $TMP_RESULTS

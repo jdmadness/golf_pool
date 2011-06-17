@@ -19,7 +19,6 @@ ENTRY_DIR="$INSTALL_DIR/entries/$TOURNEY"
 SCORES_DIR="$INSTALL_DIR/scores/$TOURNEY"
 
 mkdir -p $DATA_DIR
-mkdir -p $LEADERBOARD_DIR
 mkdir -p $SCORES_DIR
 
 # get data from website

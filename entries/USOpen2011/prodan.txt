@@ -1,6 +1,6 @@
 Mickelson
 McIlroy
-Scott
+Adam Scott
 Quiros
 Fowler
 Yang
