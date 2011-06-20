@@ -59,7 +59,7 @@ do
 
      # overall tie-breaker
      cp $OVERALL_TB_FILE $TMP_FILE
-     echo "Rd$DAY`cat $PLAYER_TOTALS_FILE | sort -n | awk -F"," -v FIELD=$((DAY+1)) 'BEGIN{ field = FIELD } { acc = acc "," $field } END { print acc }'`" >> $TMP_FILE
+     echo "Rd$DAY`cat $PLAYER_TOTALS_FILE | sort -t"," -nk 2 | awk -F"," '{ acc = acc "," $2 } END { print acc }'`" >> $TMP_FILE
      cat $TMP_FILE | sort | uniq > $OVERALL_TB_FILE
     
      # clean up

@@ -31,12 +31,12 @@ do
           val=`fgrep Rd$a $SCORES_DIR/${NAME}_day_totals.txt | cut -d , -f2`
           acc=`expr $acc + $val`
      done
-     TB=`fgrep Rd$DAY $SCORES_DIR/${NAME}_overall_tiebreaker.txt | cut -d , -f2`
+     TB=`fgrep Rd$DAY $SCORES_DIR/${NAME}_overall_tiebreaker.txt | cut -d , -f2-`
      echo "$NAME $acc $TB" >> $TMP_RESULTS
 done
 
 # sort results
-cat $TMP_RESULTS | sort -nk 2 | awk '{ printf "%10s\t%4d\t%s\n", $1, $2, $3 }' > $RESULTS
+cat $TMP_RESULTS | sort -nk 2 | awk '{ printf "%-10s\t%4d\t%s\n", $1, $2, $3 }' > $RESULTS
 
 # clean up
 rm -f $TMP_RESULTS

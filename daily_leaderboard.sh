@@ -31,7 +31,7 @@ done
 
 # sort results
 RESULTS=$RESULTS_DIR/Rd$DAY.txt
-cat $TMP_RESULTS | sort -nk 2 | awk '{ printf "%10s\t%4d\t%s\n", $1, $2, $3 }' > $RESULTS
+cat $TMP_RESULTS | sort -nk 2 | awk '{ printf "%-10s\t%4d\t%s\n", $1, $2, $3 }' > $RESULTS
 
 # clean up
 rm -f $TMP_RESULTS
