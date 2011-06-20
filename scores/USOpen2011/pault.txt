@@ -1,0 +1,8 @@
+Brandt Snedeker,70,70,72,69
+Matt Kuchar,72,68,69,73
+Luke Donald,74,72,74,69
+Jeff Overton,72,72,74,75
+Martin Laird,73,74,--,--
+Shane Lowry,72,76,--,--
+Nick Watney,75,73,--,--
+Maarten Lafeber,79,74,--,--

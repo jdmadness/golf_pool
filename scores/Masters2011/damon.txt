@@ -1,0 +1,6 @@
+K.J. Choi,67,70,71,72
+Brandt Snedeker,69,71,74,70
+Matt Kuchar,68,75,69,75
+Phil Mickelson,70,72,71,74
+Hunter Mahan,75,71,--,--
+Zach Johnson,73,73,--,--

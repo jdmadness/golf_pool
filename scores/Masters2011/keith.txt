@@ -1,0 +1,6 @@
+Phil Mickelson,70,72,71,74
+Bubba Watson,73,71,67,78
+Dustin Johnson,74,68,73,74
+Aaron Baddeley,75,70,74,74
+Stewart Cink,71,75,--,--
+Zach Johnson,73,73,--,--

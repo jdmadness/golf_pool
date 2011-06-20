@@ -1,0 +1,8 @@
+Jason Day,71,72,65,68
+Lee Westwood,75,68,65,70
+Matt Kuchar,72,68,69,73
+Bo Van Pelt,76,67,68,71
+Retief Goosen,73,73,71,68
+Marc Leishman,73,69,72,76
+Jeff Overton,72,72,74,75
+Peter Uihlein,72,78,--,--

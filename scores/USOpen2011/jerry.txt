@@ -1,0 +1,8 @@
+Sergio Garcia,69,71,69,70
+Henrik Stenson,70,72,69,74
+Ryo Ishikawa,74,70,74,68
+Martin Kaymer,74,70,72,71
+Sang-moon Bae,75,71,75,67
+Hunter Mahan,74,73,--,--
+Paul Casey,73,74,--,--
+Geoff Ogilvy,75,76,--,--

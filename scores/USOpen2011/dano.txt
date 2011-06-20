@@ -1,0 +1,8 @@
+Matt Kuchar,72,68,69,73
+Steve Stricker,75,69,69,70
+Sang-moon Bae,75,71,75,67
+Bubba Watson,71,75,74,73
+Mark Wilson,78,70,--,--
+Miguel Jimenez,77,73,--,--
+David Howell,78,74,--,--
+Kevin Na,80,75,--,--

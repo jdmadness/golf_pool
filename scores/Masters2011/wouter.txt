@@ -1,0 +1,6 @@
+Adam Scott,72,70,67,67
+Tiger Woods,71,66,74,67
+Ricky Barnes,68,71,75,71
+Matt Kuchar,68,75,69,75
+Hunter Mahan,75,71,--,--
+Vijay Singh,76,78,--,--

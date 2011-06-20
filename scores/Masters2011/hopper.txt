@@ -1,0 +1,6 @@
+Rory McIlroy,65,69,70,80
+Phil Mickelson,70,72,71,74
+Nick Watney,72,72,75,73
+Jerry Kelly,74,73,--,--
+Padraig Harrington,77,72,--,--
+Rory Sabbatini,74,76,--,--

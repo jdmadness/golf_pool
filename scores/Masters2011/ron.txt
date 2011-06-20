@@ -1,0 +1,6 @@
+Tiger Woods,71,66,74,67
+K.J. Choi,67,70,71,72
+Rory McIlroy,65,69,70,80
+Bubba Watson,73,71,67,78
+Zach Johnson,73,73,--,--
+Mike Weir,76,79,--,--

@@ -1,0 +1,6 @@
+Steve Stricker,72,70,71,70
+Ross Fisher,69,71,71,73
+Ricky Barnes,68,71,75,71
+Phil Mickelson,70,72,71,74
+Rickie Fowler,70,69,76,74
+Hunter Mahan,75,71,--,--

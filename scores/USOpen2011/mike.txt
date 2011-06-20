@@ -1,0 +1,8 @@
+Heath Slocum,71,70,70,70
+Matt Kuchar,72,68,69,73
+Ryo Ishikawa,74,70,74,68
+Martin Kaymer,74,70,72,71
+Matteo Manassero,74,72,73,72
+Bubba Watson,71,75,74,73
+Angel Cabrera,71,79,--,--
+Maarten Lafeber,79,74,--,--

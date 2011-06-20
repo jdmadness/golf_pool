@@ -1,0 +1,8 @@
+Graeme McDowell,70,74,69,69
+Seung-yul Noh,72,70,73,71
+Ryo Ishikawa,74,70,74,68
+Luke Donald,74,72,74,69
+Matteo Manassero,74,72,73,72
+Stewart Cink,70,77,--,--
+K.J. Choi,77,73,--,--
+Peter Uihlein,72,78,--,--

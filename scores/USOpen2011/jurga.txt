@@ -1,0 +1,8 @@
+Rory McIlroy,65,66,68,69
+Bo Van Pelt,76,67,68,71
+Steve Stricker,75,69,69,70
+Robert Rock,70,71,76,68
+Russell Henley,73,69,71,75
+Nick Watney,75,73,--,--
+Camilo Villegas,77,72,--,--
+David Toms,74,75,--,--

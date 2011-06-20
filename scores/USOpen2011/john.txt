@@ -1,0 +1,8 @@
+Matt Kuchar,72,68,69,73
+Luke Donald,74,72,74,69
+Marc Leishman,73,69,72,76
+Hunter Mahan,74,73,--,--
+Stewart Cink,70,77,--,--
+Rickie Fowler,74,73,--,--
+Peter Uihlein,72,78,--,--
+Jonathan Byrd,75,77,--,--

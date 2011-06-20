@@ -1,0 +1,8 @@
+Sergio Garcia,69,71,69,70
+Matt Kuchar,72,68,69,73
+Luke Donald,74,72,74,69
+Padraig Harrington,71,73,72,73
+Alvaro Quiros,70,71,72,78
+Hunter Mahan,74,73,--,--
+Fred Funk,75,75,--,--
+Maarten Lafeber,79,74,--,--

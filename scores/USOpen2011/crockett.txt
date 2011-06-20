@@ -1,0 +1,8 @@
+Davis Love III,70,71,70,70
+Graeme McDowell,70,74,69,69
+Martin Kaymer,74,70,72,71
+Padraig Harrington,71,73,72,73
+Camilo Villegas,77,72,--,--
+Jim Furyk,74,75,--,--
+Geoff Ogilvy,75,76,--,--
+Michael Campbell,75,77,--,--

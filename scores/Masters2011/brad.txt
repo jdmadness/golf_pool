@@ -1,0 +1,6 @@
+Phil Mickelson,70,72,71,74
+Dustin Johnson,74,68,73,74
+Aaron Baddeley,75,70,74,74
+Robert Allenby,75,71,--,--
+Hunter Mahan,75,71,--,--
+Jhonattan Vegas,72,76,--,--

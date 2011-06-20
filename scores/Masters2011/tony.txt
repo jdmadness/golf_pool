@@ -1,0 +1,6 @@
+Lee Westwood,72,67,74,70
+Steve Stricker,72,70,71,70
+Fred Couples,71,68,72,73
+Nick Watney,72,72,75,73
+Zach Johnson,73,73,--,--
+Davis Love III,75,77,--,--

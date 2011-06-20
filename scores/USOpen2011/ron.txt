@@ -1,0 +1,8 @@
+Rory McIlroy,65,66,68,69
+Sergio Garcia,69,71,69,70
+Davis Love III,70,71,70,70
+Padraig Harrington,71,73,72,73
+Phil Mickelson,74,69,77,71
+K.J. Choi,77,73,--,--
+Robert Allenby,73,78,--,--
+Michael Campbell,75,77,--,--

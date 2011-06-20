@@ -1,0 +1,6 @@
+Tiger Woods,71,66,74,67
+K.J. Choi,67,70,71,72
+Ryan Moore,70,73,72,73
+Dustin Johnson,74,68,73,74
+Tim Clark,73,73,--,--
+Davis Love III,75,77,--,--

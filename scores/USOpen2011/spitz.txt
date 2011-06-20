@@ -1,0 +1,8 @@
+Y.E. Yang,68,69,70,71
+Graeme McDowell,70,74,69,69
+Robert Karlsson,79,67,71,72
+Luke Donald,74,72,74,69
+Bubba Watson,71,75,74,73
+Jeff Overton,72,72,74,75
+Trevor Immelman,75,74,--,--
+Michael Campbell,75,77,--,--

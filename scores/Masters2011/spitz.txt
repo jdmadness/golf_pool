@@ -1,0 +1,6 @@
+Phil Mickelson,70,72,71,74
+Bubba Watson,73,71,67,78
+Dustin Johnson,74,68,73,74
+Mark Wilson,76,71,--,--
+Stuart Appleby,75,72,--,--
+Padraig Harrington,77,72,--,--

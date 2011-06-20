@@ -1,0 +1,6 @@
+K.J. Choi,67,70,71,72
+Rory McIlroy,65,69,70,80
+Phil Mickelson,70,72,71,74
+Bubba Watson,73,71,67,78
+Padraig Harrington,77,72,--,--
+Jose Maria Olazabal,73,77,--,--

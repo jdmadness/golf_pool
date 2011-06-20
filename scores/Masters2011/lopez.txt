@@ -1,0 +1,6 @@
+Luke Donald,72,68,69,69
+K.J. Choi,67,70,71,72
+Dustin Johnson,74,68,73,74
+Anthony Kim,73,73,--,--
+Hunter Mahan,75,71,--,--
+Jason Bohn,73,75,--,--

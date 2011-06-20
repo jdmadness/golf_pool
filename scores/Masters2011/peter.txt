@@ -1,0 +1,6 @@
+Charl Schwartzel,69,71,68,66
+Rory McIlroy,65,69,70,80
+Bubba Watson,73,71,67,78
+Stuart Appleby,75,72,--,--
+Martin Kaymer,78,72,--,--
+Vijay Singh,76,78,--,--

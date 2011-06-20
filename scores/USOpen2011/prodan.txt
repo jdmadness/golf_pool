@@ -1,0 +1,8 @@
+Rory McIlroy,65,66,68,69
+Y.E. Yang,68,69,70,71
+Alvaro Quiros,70,71,72,78
+Phil Mickelson,74,69,77,71
+Adam Scott,74,73,--,--
+Rickie Fowler,74,73,--,--
+Camilo Villegas,77,72,--,--
+David Chung,82,75,--,--

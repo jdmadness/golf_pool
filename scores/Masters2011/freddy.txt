@@ -1,0 +1,6 @@
+Charl Schwartzel,69,71,68,66
+K.J. Choi,67,70,71,72
+Matt Kuchar,68,75,69,75
+Bubba Watson,73,71,67,78
+Stuart Appleby,75,72,--,--
+Martin Kaymer,78,72,--,--

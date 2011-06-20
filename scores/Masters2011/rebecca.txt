@@ -1,0 +1,6 @@
+Matt Kuchar,68,75,69,75
+Phil Mickelson,70,72,71,74
+Bubba Watson,73,71,67,78
+Rickie Fowler,70,69,76,74
+Lucas Glover,75,71,--,--
+Mark Wilson,76,71,--,--

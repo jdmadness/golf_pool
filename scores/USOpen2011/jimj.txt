@@ -1,0 +1,8 @@
+Y.E. Yang,68,69,70,71
+Matt Kuchar,72,68,69,73
+Gregory Havret,77,69,71,69
+Luke Donald,74,72,74,69
+Kenichi Kuboya,73,73,74,77
+Stewart Cink,70,77,--,--
+K.J. Choi,77,73,--,--
+Geoff Ogilvy,75,76,--,--

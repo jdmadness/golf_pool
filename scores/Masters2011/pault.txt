@@ -1,0 +1,6 @@
+Tiger Woods,71,66,74,67
+Steve Stricker,72,70,71,70
+Gary Woodland,69,73,74,70
+Rickie Fowler,70,69,76,74
+Francesco Molinari,75,71,--,--
+Jonathan Byrd,73,78,--,--

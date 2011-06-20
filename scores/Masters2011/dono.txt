@@ -1,0 +1,6 @@
+Lee Westwood,72,67,74,70
+Rory McIlroy,65,69,70,80
+Fred Couples,71,68,72,73
+Ian Poulter,74,69,71,73
+Stuart Appleby,75,72,--,--
+Padraig Harrington,77,72,--,--

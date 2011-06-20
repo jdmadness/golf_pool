@@ -1,0 +1,6 @@
+Tiger Woods,71,66,74,67
+Y.E. Yang,67,72,73,73
+Bubba Watson,73,71,67,78
+Dustin Johnson,74,68,73,74
+Camilo Villegas,70,75,73,76
+Sean O`Hair,70,76,--,--

@@ -1,0 +1,6 @@
+Lee Westwood,72,67,74,70
+Rory McIlroy,65,69,70,80
+Y.E. Yang,67,72,73,73
+Francesco Molinari,75,71,--,--
+Stuart Appleby,75,72,--,--
+Anders Hansen,72,77,--,--

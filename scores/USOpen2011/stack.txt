@@ -1,0 +1,8 @@
+Matt Kuchar,72,68,69,73
+Steve Stricker,75,69,69,70
+Edoardo Molinari,74,70,74,73
+Brian Gay,73,71,74,75
+Jeff Overton,72,72,74,75
+Rickie Fowler,74,73,--,--
+Jim Furyk,74,75,--,--
+David Chung,82,75,--,--

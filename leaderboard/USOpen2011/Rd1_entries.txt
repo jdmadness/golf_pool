@@ -1,0 +1,290 @@
+====crockett====
+Davis Love III,70,--,--,--
+Graeme McDowell,70,--,--,--
+Padraig Harrington,71,--,--,--
+Jim Furyk,74,--,--,--
+Martin Kaymer,74,--,--,--
+Geoff Ogilvy,75,--,--,--
+Michael Campbell,75,--,--,--
+Camilo Villegas,77,--,--,--
+Total,285
+====dano====
+Bubba Watson,71,--,--,--
+Matt Kuchar,72,--,--,--
+Sang-moon Bae,75,--,--,--
+Steve Stricker,75,--,--,--
+Miguel Jimenez,77,--,--,--
+David Howell,78,--,--,--
+Mark Wilson,78,--,--,--
+Kevin Na,80,--,--,--
+Total,293
+====dave====
+Angel Cabrera,71,--,--,--
+Bubba Watson,71,--,--,--
+Matt Kuchar,72,--,--,--
+Peter Uihlein,72,--,--,--
+Kevin Streelman,73,--,--,--
+Phil Mickelson,74,--,--,--
+Geoff Ogilvy,75,--,--,--
+Bo Van Pelt,76,--,--,--
+Total,286
+====dono====
+Stewart Cink,70,--,--,--
+Bubba Watson,71,--,--,--
+Bill Haas,73,--,--,--
+Retief Goosen,73,--,--,--
+Luke Donald,74,--,--,--
+Alex Cejka,75,--,--,--
+K.J. Choi,77,--,--,--
+David Chung,82,--,--,--
+Total,287
+====freddy====
+Rory McIlroy,65,--,--,--
+Sergio Garcia,69,--,--,--
+Rory Sabbatini,72,--,--,--
+Luke Donald,74,--,--,--
+Michael Campbell,75,--,--,--
+Thomas Levet,75,--,--,--
+K.J. Choi,77,--,--,--
+Miguel Jimenez,77,--,--,--
+Total,280
+====hopper====
+Davis Love III,70,--,--,--
+Angel Cabrera,71,--,--,--
+Bubba Watson,71,--,--,--
+Matt Kuchar,72,--,--,--
+Bill Haas,73,--,--,--
+Russell Henley,73,--,--,--
+Phil Mickelson,74,--,--,--
+Miguel Jimenez,77,--,--,--
+Total,284
+====jerry====
+Sergio Garcia,69,--,--,--
+Henrik Stenson,70,--,--,--
+Paul Casey,73,--,--,--
+Hunter Mahan,74,--,--,--
+Martin Kaymer,74,--,--,--
+Ryo Ishikawa,74,--,--,--
+Geoff Ogilvy,75,--,--,--
+Sang-moon Bae,75,--,--,--
+Total,286
+====joeb====
+Rory McIlroy,65,--,--,--
+Sergio Garcia,69,--,--,--
+Brandt Snedeker,70,--,--,--
+Luke Donald,74,--,--,--
+Geoff Ogilvy,75,--,--,--
+Michael Campbell,75,--,--,--
+Trevor Immelman,75,--,--,--
+K.J. Choi,77,--,--,--
+Total,278
+====john====
+Stewart Cink,70,--,--,--
+Matt Kuchar,72,--,--,--
+Peter Uihlein,72,--,--,--
+Marc Leishman,73,--,--,--
+Hunter Mahan,74,--,--,--
+Luke Donald,74,--,--,--
+Rickie Fowler,74,--,--,--
+Jonathan Byrd,75,--,--,--
+Total,287
+====johns====
+Stewart Cink,70,--,--,--
+Matt Kuchar,72,--,--,--
+Marc Leishman,73,--,--,--
+Justin Rose,74,--,--,--
+Luke Donald,74,--,--,--
+Michael Campbell,75,--,--,--
+Nick Watney,75,--,--,--
+Mark Wilson,78,--,--,--
+Total,289
+====jurga====
+Rory McIlroy,65,--,--,--
+Robert Rock,70,--,--,--
+Russell Henley,73,--,--,--
+David Toms,74,--,--,--
+Nick Watney,75,--,--,--
+Steve Stricker,75,--,--,--
+Bo Van Pelt,76,--,--,--
+Camilo Villegas,77,--,--,--
+Total,282
+====mac====
+Johan Edfors,70,--,--,--
+Matt Kuchar,72,--,--,--
+David Toms,74,--,--,--
+Alexander Noren,75,--,--,--
+Michael Campbell,75,--,--,--
+Nick Watney,75,--,--,--
+Steve Stricker,75,--,--,--
+Mark Wilson,78,--,--,--
+Total,291
+====marco====
+Jason Day,71,--,--,--
+Jeff Overton,72,--,--,--
+Matt Kuchar,72,--,--,--
+Peter Uihlein,72,--,--,--
+Marc Leishman,73,--,--,--
+Retief Goosen,73,--,--,--
+Lee Westwood,75,--,--,--
+Bo Van Pelt,76,--,--,--
+Total,287
+====margit====
+Angel Cabrera,71,--,--,--
+Matt Kuchar,72,--,--,--
+Martin Kaymer,74,--,--,--
+Rickie Fowler,74,--,--,--
+Alex Cejka,75,--,--,--
+Ian Poulter,75,--,--,--
+Scott Barr,75,--,--,--
+Miguel Jimenez,77,--,--,--
+Total,291
+====mike====
+Angel Cabrera,71,--,--,--
+Bubba Watson,71,--,--,--
+Heath Slocum,71,--,--,--
+Matt Kuchar,72,--,--,--
+Martin Kaymer,74,--,--,--
+Matteo Manassero,74,--,--,--
+Ryo Ishikawa,74,--,--,--
+Maarten Lafeber,79,--,--,--
+Total,285
+====nick====
+Charl Schwartzel,68,--,--,--
+Sergio Garcia,69,--,--,--
+Brandt Snedeker,70,--,--,--
+Johan Edfors,70,--,--,--
+Matt Kuchar,72,--,--,--
+Peter Uihlein,72,--,--,--
+Ryan Moore,73,--,--,--
+Luke Donald,74,--,--,--
+Total,277
+====nickb====
+Graeme McDowell,70,--,--,--
+Stewart Cink,70,--,--,--
+Peter Uihlein,72,--,--,--
+Seung-yul Noh,72,--,--,--
+Luke Donald,74,--,--,--
+Matteo Manassero,74,--,--,--
+Ryo Ishikawa,74,--,--,--
+K.J. Choi,77,--,--,--
+Total,284
+====paulie====
+Rory McIlroy,65,--,--,--
+Angel Cabrera,71,--,--,--
+Jason Day,71,--,--,--
+Kevin Streelman,73,--,--,--
+Phil Mickelson,74,--,--,--
+Rickie Fowler,74,--,--,--
+Jonathan Byrd,75,--,--,--
+Maarten Lafeber,79,--,--,--
+Total,280
+====pault====
+Brandt Snedeker,70,--,--,--
+Jeff Overton,72,--,--,--
+Matt Kuchar,72,--,--,--
+Shane Lowry,72,--,--,--
+Martin Laird,73,--,--,--
+Luke Donald,74,--,--,--
+Nick Watney,75,--,--,--
+Maarten Lafeber,79,--,--,--
+Total,286
+====prodan====
+Rory McIlroy,65,--,--,--
+Y.E. Yang,68,--,--,--
+Alvaro Quiros,70,--,--,--
+Adam Scott,74,--,--,--
+Phil Mickelson,74,--,--,--
+Rickie Fowler,74,--,--,--
+Camilo Villegas,77,--,--,--
+David Chung,82,--,--,--
+Total,277
+====robg====
+Rory McIlroy,65,--,--,--
+Stewart Cink,70,--,--,--
+Bubba Watson,71,--,--,--
+Marc Leishman,73,--,--,--
+Rickie Fowler,74,--,--,--
+Jonathan Byrd,75,--,--,--
+Steve Stricker,75,--,--,--
+Matthew Richardson,77,--,--,--
+Total,279
+====robt====
+Zach Johnson,71,--,--,--
+Matt Kuchar,72,--,--,--
+Marc Leishman,73,--,--,--
+Ryo Ishikawa,74,--,--,--
+Lee Westwood,75,--,--,--
+Nick Watney,75,--,--,--
+Camilo Villegas,77,--,--,--
+Ty Tryon,84,--,--,--
+Total,290
+====ron====
+Rory McIlroy,65,--,--,--
+Sergio Garcia,69,--,--,--
+Davis Love III,70,--,--,--
+Padraig Harrington,71,--,--,--
+Robert Allenby,73,--,--,--
+Phil Mickelson,74,--,--,--
+Michael Campbell,75,--,--,--
+K.J. Choi,77,--,--,--
+Total,275
+====spitz====
+Y.E. Yang,68,--,--,--
+Graeme McDowell,70,--,--,--
+Bubba Watson,71,--,--,--
+Jeff Overton,72,--,--,--
+Luke Donald,74,--,--,--
+Michael Campbell,75,--,--,--
+Trevor Immelman,75,--,--,--
+Robert Karlsson,79,--,--,--
+Total,281
+====stack====
+Jeff Overton,72,--,--,--
+Matt Kuchar,72,--,--,--
+Brian Gay,73,--,--,--
+Edoardo Molinari,74,--,--,--
+Jim Furyk,74,--,--,--
+Rickie Fowler,74,--,--,--
+Steve Stricker,75,--,--,--
+David Chung,82,--,--,--
+Total,291
+====tana====
+Rory McIlroy,65,--,--,--
+Angel Cabrera,71,--,--,--
+Rory Sabbatini,72,--,--,--
+Phil Mickelson,74,--,--,--
+Jonathan Byrd,75,--,--,--
+Trevor Immelman,75,--,--,--
+K.J. Choi,77,--,--,--
+Maarten Lafeber,79,--,--,--
+Total,282
+====tracy====
+Rory McIlroy,65,--,--,--
+Charl Schwartzel,68,--,--,--
+Harrison Frazar,72,--,--,--
+Kenichi Kuboya,73,--,--,--
+Phil Mickelson,74,--,--,--
+Rickie Fowler,74,--,--,--
+Nicolas Colsaerts,76,--,--,--
+Robert Karlsson,79,--,--,--
+Total,278
+====vince====
+Brandt Snedeker,70,--,--,--
+Angel Cabrera,71,--,--,--
+Zach Johnson,71,--,--,--
+Matt Kuchar,72,--,--,--
+Jim Furyk,74,--,--,--
+Phil Mickelson,74,--,--,--
+Fred Funk,75,--,--,--
+Sang-moon Bae,75,--,--,--
+Total,284
+====wouter====
+Sergio Garcia,69,--,--,--
+Alvaro Quiros,70,--,--,--
+Padraig Harrington,71,--,--,--
+Matt Kuchar,72,--,--,--
+Hunter Mahan,74,--,--,--
+Luke Donald,74,--,--,--
+Fred Funk,75,--,--,--
+Maarten Lafeber,79,--,--,--
+Total,282

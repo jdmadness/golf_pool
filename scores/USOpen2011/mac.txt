@@ -1,0 +1,8 @@
+Matt Kuchar,72,68,69,73
+Steve Stricker,75,69,69,70
+Johan Edfors,70,72,74,67
+Alexander Noren,75,67,74,74
+Mark Wilson,78,70,--,--
+Nick Watney,75,73,--,--
+David Toms,74,75,--,--
+Michael Campbell,75,77,--,--

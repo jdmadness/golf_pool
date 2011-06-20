@@ -1,0 +1,8 @@
+Rory McIlroy,65,66,68,69
+Sergio Garcia,69,71,69,70
+Rory Sabbatini,72,73,70,71
+Luke Donald,74,72,74,69
+K.J. Choi,77,73,--,--
+Miguel Jimenez,77,73,--,--
+Thomas Levet,75,76,--,--
+Michael Campbell,75,77,--,--

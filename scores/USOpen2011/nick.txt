@@ -1,0 +1,8 @@
+Sergio Garcia,69,71,69,70
+Charl Schwartzel,68,74,72,66
+Brandt Snedeker,70,70,72,69
+Matt Kuchar,72,68,69,73
+Johan Edfors,70,72,74,67
+Luke Donald,74,72,74,69
+Ryan Moore,73,77,--,--
+Peter Uihlein,72,78,--,--

@@ -1,0 +1,6 @@
+Tiger Woods,71,66,74,67
+Alex Cejka,72,71,75,70
+Sergio Garcia,69,71,75,73
+Rickie Fowler,70,69,76,74
+Dustin Johnson,74,68,73,74
+Hunter Mahan,75,71,--,--

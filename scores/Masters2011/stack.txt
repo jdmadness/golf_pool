@@ -1,0 +1,6 @@
+K.J. Choi,67,70,71,72
+Steve Stricker,72,70,71,70
+Phil Mickelson,70,72,71,74
+Aaron Baddeley,75,70,74,74
+Francesco Molinari,75,71,--,--
+Ben Crane,73,75,--,--

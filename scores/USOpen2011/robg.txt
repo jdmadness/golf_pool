@@ -1,0 +1,8 @@
+Rory McIlroy,65,66,68,69
+Steve Stricker,75,69,69,70
+Marc Leishman,73,69,72,76
+Bubba Watson,71,75,74,73
+Stewart Cink,70,77,--,--
+Rickie Fowler,74,73,--,--
+Jonathan Byrd,75,77,--,--
+Matthew Richardson,77,81,--,--

@@ -1,0 +1,8 @@
+Matt Kuchar,72,68,69,73
+Bo Van Pelt,76,67,68,71
+Phil Mickelson,74,69,77,71
+Bubba Watson,71,75,74,73
+Kevin Streelman,73,73,74,75
+Angel Cabrera,71,79,--,--
+Peter Uihlein,72,78,--,--
+Geoff Ogilvy,75,76,--,--

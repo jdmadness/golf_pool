@@ -1,0 +1,8 @@
+Brandt Snedeker,70,70,72,69
+Matt Kuchar,72,68,69,73
+Zach Johnson,71,69,72,74
+Sang-moon Bae,75,71,75,67
+Phil Mickelson,74,69,77,71
+Jim Furyk,74,75,--,--
+Fred Funk,75,75,--,--
+Angel Cabrera,71,79,--,--

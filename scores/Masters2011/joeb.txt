@@ -1,0 +1,6 @@
+Jim Furyk,72,68,74,72
+Phil Mickelson,70,72,71,74
+Bubba Watson,73,71,67,78
+Bill Haas,74,70,74,72
+Anthony Kim,73,73,--,--
+Stuart Appleby,75,72,--,--

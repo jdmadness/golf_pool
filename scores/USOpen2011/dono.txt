@@ -1,0 +1,8 @@
+Bill Haas,73,73,68,71
+Retief Goosen,73,73,71,68
+Luke Donald,74,72,74,69
+Bubba Watson,71,75,74,73
+Stewart Cink,70,77,--,--
+Alex Cejka,75,74,--,--
+K.J. Choi,77,73,--,--
+David Chung,82,75,--,--

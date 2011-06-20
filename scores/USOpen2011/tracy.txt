@@ -1,0 +1,8 @@
+Rory McIlroy,65,66,68,69
+Charl Schwartzel,68,74,72,66
+Harrison Frazar,72,73,68,73
+Robert Karlsson,79,67,71,72
+Phil Mickelson,74,69,77,71
+Kenichi Kuboya,73,73,74,77
+Rickie Fowler,74,73,--,--
+Nicolas Colsaerts,76,74,--,--

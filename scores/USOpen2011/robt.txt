@@ -1,0 +1,8 @@
+Lee Westwood,75,68,65,70
+Matt Kuchar,72,68,69,73
+Ryo Ishikawa,74,70,74,68
+Zach Johnson,71,69,72,74
+Marc Leishman,73,69,72,76
+Nick Watney,75,73,--,--
+Camilo Villegas,77,72,--,--
+Ty Tryon,84,73,--,--

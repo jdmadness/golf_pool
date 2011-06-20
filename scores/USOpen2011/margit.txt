@@ -1,0 +1,8 @@
+Matt Kuchar,72,68,69,73
+Martin Kaymer,74,70,72,71
+Rickie Fowler,74,73,--,--
+Ian Poulter,75,73,--,--
+Alex Cejka,75,74,--,--
+Angel Cabrera,71,79,--,--
+Scott Barr,75,75,--,--
+Miguel Jimenez,77,73,--,--

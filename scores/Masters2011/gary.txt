@@ -1,0 +1,6 @@
+Matt Kuchar,68,75,69,75
+Phil Mickelson,70,72,71,74
+Ian Poulter,74,69,71,73
+Aaron Baddeley,75,70,74,74
+Camilo Villegas,70,75,73,76
+Padraig Harrington,77,72,--,--

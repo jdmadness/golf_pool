@@ -1,0 +1,6 @@
+K.J. Choi,67,70,71,72
+Phil Mickelson,70,72,71,74
+Aaron Baddeley,75,70,74,74
+Ernie Els,75,70,76,72
+Anthony Kim,73,73,--,--
+Hunter Mahan,75,71,--,--

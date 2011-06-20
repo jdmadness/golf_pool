@@ -1,0 +1,6 @@
+Ricky Barnes,68,71,75,71
+Dustin Johnson,74,68,73,74
+Louis Oosthuizen,75,74,--,--
+Padraig Harrington,77,72,--,--
+Martin Kaymer,78,72,--,--
+Vijay Singh,76,78,--,--

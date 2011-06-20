@@ -1,0 +1,6 @@
+Lee Westwood,72,67,74,70
+Steve Stricker,72,70,71,70
+Ricky Barnes,68,71,75,71
+Rickie Fowler,70,69,76,74
+Bill Haas,74,70,74,72
+Hunter Mahan,75,71,--,--

@@ -1,0 +1,8 @@
+Rory McIlroy,65,66,68,69
+Sergio Garcia,69,71,69,70
+Brandt Snedeker,70,70,72,69
+Luke Donald,74,72,74,69
+Trevor Immelman,75,74,--,--
+K.J. Choi,77,73,--,--
+Geoff Ogilvy,75,76,--,--
+Michael Campbell,75,77,--,--

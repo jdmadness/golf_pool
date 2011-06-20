@@ -1,0 +1,8 @@
+Davis Love III,70,71,70,70
+Matt Kuchar,72,68,69,73
+Bill Haas,73,73,68,71
+Russell Henley,73,69,71,75
+Phil Mickelson,74,69,77,71
+Bubba Watson,71,75,74,73
+Angel Cabrera,71,79,--,--
+Miguel Jimenez,77,73,--,--
