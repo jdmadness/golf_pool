@@ -17,16 +17,17 @@ ENTRIES_DIR="$INSTALL_DIR/entries/$TOURNEY"
 ALLSCORES="$INSTALL_DIR/data/$TOURNEY/leaderboard.txt"
 SCORES_DIR="$INSTALL_DIR/scores/$TOURNEY"
 RESULTS_DIR="$INSTALL_DIR/results/$TOURNEY"
-MAXSCORES="$INSTALL_DIR/results/$TOURNEY/max.txt"
 MAXCMD="$INSTALL_DIR/daily_max.sh"
 
 mkdir -p $SCORES_DIR
 mkdir -p $RESULTS_DIR
-touch $MAXSCORES
 
 # compute daily max
 MAX=`cat $ALLSCORES | $MAXCMD $DAY`
-echo "Rd$DAY,$MAX" >> $MAXSCORES
+MAX1=`cat $ALLSCORES | $MAXCMD 1`
+MAX2=`cat $ALLSCORES | $MAXCMD 2`
+MAX3=`cat $ALLSCORES | $MAXCMD 3`
+MAX4=`cat $ALLSCORES | $MAXCMD 4`
 
 # compute each entrant's daily scores
 for FILE in `find $ENTRIES_DIR -type f`
@@ -44,7 +45,7 @@ do
      touch $OVERALL_TB_FILE
 
      # update player totals
-     cat $PLAYER_FILE | awk -F"," -v MAX=$MAX -v DAY=$DAY 'BEGIN{ max = MAX; day = DAY }{ acc = 0; for(i = 2; i <= day+1; i++) { if($i == "--") { acc += max } else { acc += $i } } print $1 "," acc}' > $TMP_FILE
+     cat $PLAYER_FILE | awk -F"," -v MAX1=$MAX1 -v MAX2=$MAX2 -v MAX3=$MAX3 -v MAX4=$MAX4 -v DAY=$DAY 'BEGIN{ max[1] = MAX1; max[2] = MAX2; max[3] = MAX3; max[4] = MAX4; day = DAY }{ acc = 0; for(i = 2; i <= day+1; i++) { if($i == "--") { acc += max[i-1] } else { acc += $i } } print $1 "," acc}' > $TMP_FILE
      mv $TMP_FILE $PLAYER_TOTALS_FILE
 
      # day total
