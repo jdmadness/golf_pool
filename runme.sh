@@ -19,6 +19,6 @@ $INSTALL_DIR/get_scores.sh $TOURNEY
 echo "Calculating entrant scores..."
 $INSTALL_DIR/calc_totals.sh $TOURNEY $ROUND $N
 echo "Computing daily results..."
-$INSTALL_DIR/daily_leaderboard.sh $TOURNEY $ROUND
+$INSTALL_DIR/daily_leaderboard.sh $TOURNEY $ROUND $N
 echo "Computing overall results..."
 $INSTALL_DIR/overall_leaderboard.sh $TOURNEY $ROUND

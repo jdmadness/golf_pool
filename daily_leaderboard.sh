@@ -1,14 +1,15 @@
 #!/bin/sh
 
-if [ $# -lt 2 ]
+if [ $# -lt 3 ]
 then
-  echo "Usage: $0 <tourney> <day>"
+  echo "Usage: $0 <tourney> <day> <topN>"
   exit
 fi
 
 # parameters
 TOURNEY=$1
 DAY=$2
+N=$3
 
 # dirs and files
 INSTALL_DIR="/Users/marshalj/test/golf_pool"
@@ -31,7 +32,8 @@ done
 
 # sort results
 RESULTS=$RESULTS_DIR/Rd$DAY.txt
-cat $TMP_RESULTS | sort -nk 2 | awk '{ printf "%-10s\t%4d\t%s\n", $1, $2, $3 }' > $RESULTS
+TB_START=$((3*$N+1))
+cat $TMP_RESULTS | sort -nk 2 -k 3.$TB_START | awk '{ printf "%-10s\t%4d\t%s\n", $1, $2, $3 }' > $RESULTS
 
 # clean up
 rm -f $TMP_RESULTS
