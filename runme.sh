@@ -12,13 +12,16 @@ N=$3
 
 echo "Running for $1 (Round $2) using the top $3 scores each day"
 
-INSTALL_DIR="/Users/marshalj/test/golf_pool"
+if [ ! -n $GOLF_INSTALL_DIR ]
+then
+     GOLF_INSTALL_DIR="/Users/marshalj/test/golf_pool"
+fi
 
 echo "Getting scores..."
-$INSTALL_DIR/get_scores.sh $TOURNEY
+$GOLF_INSTALL_DIR/get_scores.sh $TOURNEY
 echo "Calculating entrant scores..."
-$INSTALL_DIR/calc_totals.sh $TOURNEY $ROUND $N
+$GOLF_INSTALL_DIR/calc_totals.sh $TOURNEY $ROUND $N
 echo "Computing daily results..."
-$INSTALL_DIR/daily_leaderboard.sh $TOURNEY $ROUND $N
+$GOLF_INSTALL_DIR/daily_leaderboard.sh $TOURNEY $ROUND $N
 echo "Computing overall results..."
-$INSTALL_DIR/overall_leaderboard.sh $TOURNEY $ROUND
+$GOLF_INSTALL_DIR/overall_leaderboard.sh $TOURNEY $ROUND
