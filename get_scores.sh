@@ -10,15 +10,18 @@ fi
 TOURNEY=$1
 
 # dirs and files
-INSTALL_DIR="/Users/marshalj/test/golf_pool"
+if [ ! -n $GOLF_INSTALL_DIR ]
+then
+     GOLF_INSTALL_DIR="/Users/marshalj/test/golf_pool"
+fi
 URL="http://scores.espn.go.com/golf/leaderboard"
-PARSER="$INSTALL_DIR/espn_golf_parser.sh"
-DATA_DIR="$INSTALL_DIR/data/$TOURNEY"
+PARSER="$GOLF_INSTALL_DIR/espn_golf_parser.sh"
+DATA_DIR="$GOLF_INSTALL_DIR/data/$TOURNEY"
 TMP_SCORES="$DATA_DIR/.leaderboard.txt"
 WITHDRAWS="$DATA_DIR/withdraws.txt"
 ALLSCORES="$DATA_DIR/leaderboard.txt"
-ENTRY_DIR="$INSTALL_DIR/entries/$TOURNEY"
-SCORES_DIR="$INSTALL_DIR/scores/$TOURNEY"
+ENTRY_DIR="$GOLF_INSTALL_DIR/entries/$TOURNEY"
+SCORES_DIR="$GOLF_INSTALL_DIR/scores/$TOURNEY"
 
 mkdir -p $DATA_DIR
 mkdir -p $SCORES_DIR
@@ -35,7 +38,7 @@ else
 fi
 
 # for testing
-#cat $INSTALL_DIR/data/example.html | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $ALLSCORES
+#cat $GOLF_INSTALL_DIR/data/example.html | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $ALLSCORES
 
 # get each entrant's scores
 for ENTRY in `find $ENTRY_DIR -type f`

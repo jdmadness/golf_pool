@@ -11,10 +11,13 @@ TOURNEY=$1
 DAY=$2
 
 # dirs and files
-INSTALL_DIR="/Users/marshalj/test/golf_pool"
-ENTRIES_DIR="$INSTALL_DIR/entries/$TOURNEY"
-SCORES_DIR="$INSTALL_DIR/scores/$TOURNEY"
-RESULTS_DIR="$INSTALL_DIR/leaderboard/$TOURNEY"
+if [ ! -n $GOLF_INSTALL_DIR ]
+then
+     GOLF_INSTALL_DIR="/Users/marshalj/test/golf_pool"
+fi
+ENTRIES_DIR="$GOLF_INSTALL_DIR/entries/$TOURNEY"
+SCORES_DIR="$GOLF_INSTALL_DIR/scores/$TOURNEY"
+RESULTS_DIR="$GOLF_INSTALL_DIR/leaderboard/$TOURNEY"
 
 # get each entrant's scores
 RESULTS=$RESULTS_DIR/Rd${DAY}_entries.txt

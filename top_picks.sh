@@ -11,9 +11,12 @@ TOURNEY=$1
 N=$2
 
 # dirs and files
-INSTALL_DIR="/Users/marshalj/test/golf_pool"
-HELPER="$INSTALL_DIR/top_picks_helper.sh"
-ENTRIES_DIR="$INSTALL_DIR/entries/$TOURNEY"
+if [ ! -n $GOLF_INSTALL_DIR ]
+then
+     GOLF_INSTALL_DIR="/Users/marshalj/test/golf_pool"
+fi
+HELPER="$GOLF_INSTALL_DIR/top_picks_helper.sh"
+ENTRIES_DIR="$GOLF_INSTALL_DIR/entries/$TOURNEY"
 
 FILES=`ls $ENTRIES_DIR/*txt`
 for ((i=1; i <= N ; i++))

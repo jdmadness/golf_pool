@@ -12,12 +12,15 @@ DAY=$2
 TOPN=$3
 
 # dirs and files
-INSTALL_DIR="/Users/marshalj/test/golf_pool"
-ENTRIES_DIR="$INSTALL_DIR/entries/$TOURNEY"
-ALLSCORES="$INSTALL_DIR/data/$TOURNEY/leaderboard.txt"
-SCORES_DIR="$INSTALL_DIR/scores/$TOURNEY"
-RESULTS_DIR="$INSTALL_DIR/results/$TOURNEY"
-MAXCMD="$INSTALL_DIR/daily_max.sh"
+if [ ! -n $GOLF_INSTALL_DIR ]
+then
+     GOLF_INSTALL_DIR="/Users/marshalj/test/golf_pool"
+fi
+ENTRIES_DIR="$GOLF_INSTALL_DIR/entries/$TOURNEY"
+ALLSCORES="$GOLF_INSTALL_DIR/data/$TOURNEY/leaderboard.txt"
+SCORES_DIR="$GOLF_INSTALL_DIR/scores/$TOURNEY"
+RESULTS_DIR="$GOLF_INSTALL_DIR/results/$TOURNEY"
+MAXCMD="$GOLF_INSTALL_DIR/daily_max.sh"
 
 mkdir -p $SCORES_DIR
 mkdir -p $RESULTS_DIR
