@@ -12,7 +12,7 @@ TOURNEY=$1
 # dirs and files
 INSTALL_DIR="/Users/marshalj/test/golf_pool"
 URL="http://scores.espn.go.com/golf/leaderboard"
-PARSER="$INSTALL_DIR/espn_golf_parser.sh"
+PARSER="$INSTALL_DIR/espn_golf_parser2.sh"
 DATA_DIR="$INSTALL_DIR/data/$TOURNEY"
 TMP_SCORES="$DATA_DIR/.leaderboard.txt"
 WITHDRAWS="$DATA_DIR/withdraws.txt"
@@ -24,7 +24,11 @@ mkdir -p $DATA_DIR
 mkdir -p $SCORES_DIR
 
 # get data from website
-curl -s $URL | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $TMP_SCORES
+#curl -s $URL | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $TMP_SCORES
+curl -s $URL | sed 's|><|>\
+<|g' | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $TMP_SCORES
+
+exit
 
 if [ -e $WITHDRAWS ]
 then
