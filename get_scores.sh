@@ -28,8 +28,6 @@ mkdir -p $SCORES_DIR
 curl -s $URL | sed 's|><|>\
 <|g' | $PARSER | sed 's/\*//' | sed 's/&#39;/`/' > $TMP_SCORES
 
-exit
-
 if [ -e $WITHDRAWS ]
 then
   cat $TMP_SCORES $WITHDRAWS > $ALLSCORES
