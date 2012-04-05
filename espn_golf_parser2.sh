@@ -32,7 +32,10 @@ function scrub(val) {
     idx2 = index(substr($0, idx, 100), "</a>")
     player = substr($0, idx+2, idx2-3)
   
-    # skip next 3 lines
+    # skip next 6 lines
+    getline
+    getline
+    getline
     getline
     getline
     getline
