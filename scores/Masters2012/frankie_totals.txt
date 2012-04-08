@@ -1,10 +1,10 @@
-Paul Lawrie,213
-Jim Furyk,215
-Rory McIlroy,217
-Graeme McDowell,218
-Steve Stricker,220
-Ross Fisher,221
-Martin Kaymer,222
-Martin Laird,222
-Jose Maria Olazabal,236
-K.J. Choi,238
+Jim Furyk,285
+Graeme McDowell,286
+Paul Lawrie,289
+Rory McIlroy,293
+Martin Kaymer,294
+Ross Fisher,295
+Steve Stricker,295
+Martin Laird,299
+Jose Maria Olazabal,317
+K.J. Choi,319

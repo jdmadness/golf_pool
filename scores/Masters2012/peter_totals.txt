@@ -1,10 +1,10 @@
-Louis Oosthuizen,209
-Ian Poulter,214
-Rory McIlroy,217
-Miguel Jimenez,217
-Angel Cabrera,220
-Charl Schwartzel,222
-Martin Laird,222
-Luke Donald,223
-Jose Maria Olazabal,236
-Jason Day,244
+Louis Oosthuizen,278
+Ian Poulter,283
+Luke Donald,291
+Angel Cabrera,291
+Rory McIlroy,293
+Charl Schwartzel,296
+Miguel Jimenez,298
+Martin Laird,299
+Jose Maria Olazabal,317
+Jason Day,325

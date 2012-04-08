@@ -1,10 +1,10 @@
-Matt Kuchar,71,70,70,--
-Nick Watney,71,71,72,--
-Kevin Chappell,71,76,71,--
-Zach Johnson,70,74,75,--
-Tiger Woods,72,75,72,--
-Martin Kaymer,72,75,75,--
-Luke Donald,75,73,75,--
+Matt Kuchar,71,70,70,69
+Luke Donald,75,73,75,68
+Zach Johnson,70,74,75,72
+Nick Watney,71,71,72,77
+Tiger Woods,72,75,72,74
+Martin Kaymer,72,75,75,72
+Kevin Chappell,71,76,71,76
 John Senden,74,76,--,--
 Kyung-tae Kim,74,76,--,--
 Lucas Glover,75,79,--,--

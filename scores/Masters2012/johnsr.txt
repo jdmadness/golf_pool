@@ -1,10 +1,10 @@
-Louis Oosthuizen,68,72,69,--
-Padraig Harrington,71,73,68,--
-Fred Couples,72,67,75,--
-Sergio Garcia,72,68,75,--
-Justin Rose,72,72,72,--
-Rory McIlroy,71,69,77,--
-Graeme McDowell,75,72,71,--
-Luke Donald,75,73,75,--
-Jose Maria Olazabal,75,76,--,--
+Louis Oosthuizen,68,72,69,69
+Justin Rose,72,72,72,68
+Padraig Harrington,71,73,68,72
+Fred Couples,72,67,75,72
+Sergio Garcia,72,68,75,71
+Graeme McDowell,75,72,71,68
+Luke Donald,75,73,75,68
+Rory McIlroy,71,69,77,76
 Paul Casey,76,75,--,--
+Jose Maria Olazabal,75,76,--,--

@@ -1,10 +1,10 @@
-Padraig Harrington,212
-Hunter Mahan,212
-Adam Scott,218
-Zach Johnson,219
-Tiger Woods,219
-Keegan Bradley,221
-Bo Van Pelt,223
-Luke Donald,223
-Tom Watson,236
-Darren Clarke,239
+Padraig Harrington,284
+Adam Scott,284
+Hunter Mahan,286
+Bo Van Pelt,287
+Keegan Bradley,290
+Luke Donald,291
+Zach Johnson,291
+Tiger Woods,293
+Tom Watson,317
+Darren Clarke,320

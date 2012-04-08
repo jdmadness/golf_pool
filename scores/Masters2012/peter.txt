@@ -1,10 +1,10 @@
-Louis Oosthuizen,68,72,69,--
-Ian Poulter,72,72,70,--
-Rory McIlroy,71,69,77,--
-Miguel Jimenez,69,72,76,--
-Angel Cabrera,71,78,71,--
-Charl Schwartzel,72,75,75,--
-Martin Laird,76,72,74,--
-Luke Donald,75,73,75,--
+Louis Oosthuizen,68,72,69,69
+Ian Poulter,72,72,70,69
+Luke Donald,75,73,75,68
+Angel Cabrera,71,78,71,71
+Rory McIlroy,71,69,77,76
+Charl Schwartzel,72,75,75,74
+Miguel Jimenez,69,72,76,81
+Martin Laird,76,72,74,77
 Jose Maria Olazabal,75,76,--,--
 Jason Day,76,--,--,--

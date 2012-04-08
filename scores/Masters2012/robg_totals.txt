@@ -1,10 +1,10 @@
-Henrik Stenson,212
-Hunter Mahan,212
-Jason Dufner,214
-Charles Howell III,216
-Kevin Na,218
-Tiger Woods,219
-Keegan Bradley,221
-Luke Donald,223
-Jose Maria Olazabal,236
-Jason Day,244
+Hunter Mahan,286
+Kevin Na,286
+Charles Howell III,288
+Jason Dufner,289
+Keegan Bradley,290
+Luke Donald,291
+Tiger Woods,293
+Henrik Stenson,293
+Jose Maria Olazabal,317
+Jason Day,325

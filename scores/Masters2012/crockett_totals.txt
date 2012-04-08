@@ -1,10 +1,10 @@
-Lee Westwood,212
-Fred Couples,214
-Jim Furyk,215
-Justin Rose,216
-Geoff Ogilvy,217
-Graeme McDowell,218
-Tiger Woods,219
-Jose Maria Olazabal,236
-Paul Casey,236
-K.J. Choi,238
+Lee Westwood,280
+Justin Rose,284
+Jim Furyk,285
+Fred Couples,286
+Graeme McDowell,286
+Geoff Ogilvy,288
+Tiger Woods,293
+Paul Casey,317
+Jose Maria Olazabal,317
+K.J. Choi,319

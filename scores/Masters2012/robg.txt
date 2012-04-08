@@ -1,10 +1,10 @@
-Henrik Stenson,71,71,70,--
-Hunter Mahan,72,72,68,--
-Jason Dufner,69,70,75,--
-Charles Howell III,72,70,74,--
-Kevin Na,71,75,72,--
-Tiger Woods,72,75,72,--
-Keegan Bradley,71,77,73,--
-Luke Donald,75,73,75,--
+Hunter Mahan,72,72,68,74
+Kevin Na,71,75,72,68
+Charles Howell III,72,70,74,72
+Jason Dufner,69,70,75,75
+Keegan Bradley,71,77,73,69
+Luke Donald,75,73,75,68
+Tiger Woods,72,75,72,74
+Henrik Stenson,71,71,70,81
 Jose Maria Olazabal,75,76,--,--
 Jason Day,76,--,--,--

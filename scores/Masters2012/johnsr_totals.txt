@@ -1,10 +1,10 @@
-Louis Oosthuizen,209
-Padraig Harrington,212
-Fred Couples,214
-Sergio Garcia,215
-Justin Rose,216
-Rory McIlroy,217
-Graeme McDowell,218
-Luke Donald,223
-Jose Maria Olazabal,236
-Paul Casey,236
+Louis Oosthuizen,278
+Justin Rose,284
+Padraig Harrington,284
+Fred Couples,286
+Sergio Garcia,286
+Graeme McDowell,286
+Luke Donald,291
+Rory McIlroy,293
+Paul Casey,317
+Jose Maria Olazabal,317

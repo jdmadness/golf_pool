@@ -1,9 +1,9 @@
-Sang-Moon Bae,75,71,69,--
-Justin Rose,72,72,72,--
-Graeme McDowell,75,72,71,--
-Tiger Woods,72,75,72,--
-Steve Stricker,71,77,72,--
-Keegan Bradley,71,77,73,--
+Justin Rose,72,72,72,68
+Graeme McDowell,75,72,71,68
+Keegan Bradley,71,77,73,69
+Sang-Moon Bae,75,71,69,77
+Tiger Woods,72,75,72,74
+Steve Stricker,71,77,72,75
 Kyle Stanley,75,76,--,--
 Bryden Macpherson,77,76,--,--
 Darren Clarke,73,81,--,--

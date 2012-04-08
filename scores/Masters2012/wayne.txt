@@ -1,10 +1,10 @@
-Padraig Harrington,71,73,68,--
-Hunter Mahan,72,72,68,--
-Adam Scott,75,70,73,--
-Zach Johnson,70,74,75,--
-Tiger Woods,72,75,72,--
-Keegan Bradley,71,77,73,--
-Bo Van Pelt,73,75,75,--
-Luke Donald,75,73,75,--
+Padraig Harrington,71,73,68,72
+Adam Scott,75,70,73,66
+Hunter Mahan,72,72,68,74
+Bo Van Pelt,73,75,75,64
+Keegan Bradley,71,77,73,69
+Luke Donald,75,73,75,68
+Zach Johnson,70,74,75,72
+Tiger Woods,72,75,72,74
 Tom Watson,77,74,--,--
 Darren Clarke,73,81,--,--

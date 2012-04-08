@@ -1,10 +1,10 @@
-Louis Oosthuizen,209
-Hunter Mahan,212
-Rory McIlroy,217
-Geoff Ogilvy,217
-Adam Scott,218
-Keegan Bradley,221
-Bo Van Pelt,223
-Luke Donald,223
-Patrick Cantlay,223
-Ryan Palmer,237
+Louis Oosthuizen,278
+Adam Scott,284
+Hunter Mahan,286
+Bo Van Pelt,287
+Geoff Ogilvy,288
+Keegan Bradley,290
+Luke Donald,291
+Rory McIlroy,293
+Patrick Cantlay,295
+Ryan Palmer,318

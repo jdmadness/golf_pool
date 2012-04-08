@@ -1,10 +1,10 @@
-Lee Westwood,67,73,72,--
-Sergio Garcia,72,68,75,--
-Charles Howell III,72,70,74,--
-Miguel Jimenez,69,72,76,--
-Vijay Singh,70,72,76,--
-Graeme McDowell,75,72,71,--
-Zach Johnson,70,74,75,--
-Tiger Woods,72,75,72,--
-Patrick Cantlay,71,78,74,--
+Lee Westwood,67,73,72,68
+Sergio Garcia,72,68,75,71
+Graeme McDowell,75,72,71,68
+Charles Howell III,72,70,74,72
+Vijay Singh,70,72,76,72
+Zach Johnson,70,74,75,72
+Tiger Woods,72,75,72,74
+Patrick Cantlay,71,78,74,72
+Miguel Jimenez,69,72,76,81
 Jason Day,76,--,--,--

@@ -1,10 +1,10 @@
-Lee Westwood,212
-Padraig Harrington,212
-Rory McIlroy,217
-Zach Johnson,219
-Charl Schwartzel,222
-Gonzalo Fdez-Castano,225
-Jose Maria Olazabal,236
-K.J. Choi,238
-Alvaro Quiros,240
-Jason Day,244
+Lee Westwood,280
+Padraig Harrington,284
+Zach Johnson,291
+Rory McIlroy,293
+Charl Schwartzel,296
+Gonzalo Fdez-Castano,302
+Jose Maria Olazabal,317
+K.J. Choi,319
+Alvaro Quiros,321
+Jason Day,325

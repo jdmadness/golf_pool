@@ -1,10 +1,10 @@
-Bubba Watson,69,71,70,--
-Sean O'Hair,73,70,71,--
-Sergio Garcia,72,68,75,--
-Justin Rose,72,72,72,--
-Charles Howell III,72,70,74,--
-Tiger Woods,72,75,72,--
-Rickie Fowler,74,74,72,--
-Luke Donald,75,73,75,--
-Patrick Cantlay,71,78,74,--
-Trevor Immelman,78,71,76,--
+Bubba Watson,69,71,70,68
+Justin Rose,72,72,72,68
+Sergio Garcia,72,68,75,71
+Charles Howell III,72,70,74,72
+Rickie Fowler,74,74,72,70
+Luke Donald,75,73,75,68
+Sean O'Hair,73,70,71,77
+Tiger Woods,72,75,72,74
+Patrick Cantlay,71,78,74,72
+Trevor Immelman,78,71,76,76

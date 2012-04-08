@@ -1,10 +1,10 @@
-Bubba Watson,210
-Sean O'Hair,214
-Sergio Garcia,215
-Justin Rose,216
-Charles Howell III,216
-Tiger Woods,219
-Rickie Fowler,220
-Luke Donald,223
-Patrick Cantlay,223
-Trevor Immelman,225
+Bubba Watson,278
+Justin Rose,284
+Sergio Garcia,286
+Charles Howell III,288
+Rickie Fowler,290
+Luke Donald,291
+Sean O'Hair,291
+Tiger Woods,293
+Patrick Cantlay,295
+Trevor Immelman,301

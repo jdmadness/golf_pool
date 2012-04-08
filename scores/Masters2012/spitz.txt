@@ -1,10 +1,10 @@
-Lee Westwood,67,73,72,--
-Padraig Harrington,71,73,68,--
-Fred Couples,72,67,75,--
-Jim Furyk,70,73,72,--
-Graeme McDowell,75,72,71,--
-Tiger Woods,72,75,72,--
-Martin Kaymer,72,75,75,--
+Lee Westwood,67,73,72,68
+Padraig Harrington,71,73,68,72
+Jim Furyk,70,73,72,70
+Fred Couples,72,67,75,72
+Graeme McDowell,75,72,71,68
+Tiger Woods,72,75,72,74
+Martin Kaymer,72,75,75,72
 Tom Watson,77,74,--,--
 K.J. Choi,77,76,--,--
 Mark Wilson,76,78,--,--
