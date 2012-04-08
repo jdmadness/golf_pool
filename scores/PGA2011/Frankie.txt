@@ -1,0 +1,10 @@
+Luke Donald,70,71,68,68
+Brendon de Jonge,68,72,69,72
+Francesco Molinari,72,71,67,72
+K.J. Choi,70,73,69,72
+Rickie Fowler,74,69,75,68
+Davis Love III,68,71,76,79
+Stewart Cink,69,78,--,--
+Steve Schneiter,72,76,--,--
+Steve Elkington,73,75,--,--
+Jose Maria Olazabal,78,78,--,--

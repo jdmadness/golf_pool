@@ -1,0 +1,10 @@
+Charl Schwartzel,71,67,75,72
+Rory McIlroy,71,69,74,73
+Jason Day,71,70,76,72
+Richard McEvoy,69,72,75,76
+Louis Oosthuizen,72,70,74,77
+Joost Luiten,73,69,79,75
+Alejandro Canizares,73,71,--,--
+Angel Cabrera,72,74,--,--
+Francesco Molinari,73,75,--,--
+Nicolas Colsaerts,--,--,--,--

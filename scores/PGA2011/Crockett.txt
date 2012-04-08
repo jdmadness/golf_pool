@@ -1,0 +1,10 @@
+Steve Stricker,63,74,69,73
+Sergio Garcia,72,69,69,69
+Chris Kirk,72,72,69,69
+John Rollins,72,72,70,72
+Thomas Bjorn,74,71,--,--
+Anthony Kim,74,71,--,--
+Jason Day,71,74,--,--
+Geoff Ogilvy,75,71,--,--
+Sean Dougherty,74,74,--,--
+Tiger Woods,77,73,--,--

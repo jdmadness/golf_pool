@@ -1,0 +1,10 @@
+Luke Donald,70,71,68,68
+Sergio Garcia,72,69,69,69
+Chris Kirk,72,72,69,69
+K.J. Choi,70,73,69,72
+Bryce Molder,74,69,70,74
+Sean O`Hair,71,73,77,70
+Davis Love III,68,71,76,79
+Jason Day,71,74,--,--
+Stewart Cink,69,78,--,--
+Hiroyuki Fujita,73,74,--,--

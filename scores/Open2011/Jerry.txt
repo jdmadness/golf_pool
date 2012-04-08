@@ -1,0 +1,10 @@
+Tom Watson,72,70,72,72
+Rory McIlroy,71,69,74,73
+Miguel Jimenez,66,71,72,78
+Stewart Cink,70,71,77,71
+Bubba Watson,69,72,74,74
+Graeme McDowell,68,77,--,--
+John Daly,72,74,--,--
+Luke Donald,71,75,--,--
+Tetsuji Hiratsuka,75,73,--,--
+Simon Edwards,82,79,--,--

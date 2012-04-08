@@ -1,0 +1,10 @@
+Charl Schwartzel,71,67,75,72
+Richard Green,70,71,73,71
+Jason Day,71,70,76,72
+Justin Rose,72,70,79,70
+Peter Uihlein,71,71,75,75
+Lee Westwood,71,73,--,--
+Angel Cabrera,72,74,--,--
+Ian Poulter,69,78,--,--
+Francis McGuirk,77,76,--,--
+Nicolas Colsaerts,--,--,--,--

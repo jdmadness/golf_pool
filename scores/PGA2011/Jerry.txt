@@ -1,0 +1,10 @@
+Lee Westwood,71,68,70,68
+Matt Kuchar,71,71,68,70
+Francesco Molinari,72,71,67,72
+Michael Bradley,70,74,74,70
+Brian Gay,72,73,--,--
+Jason Day,71,74,--,--
+Heath Slocum,80,67,--,--
+Steve Marino,71,76,--,--
+Craig Stevens,76,77,--,--
+Lucas Glover,80,75,--,--

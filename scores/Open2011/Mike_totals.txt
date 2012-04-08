@@ -1,0 +1,10 @@
+Dustin Johnson,278
+Martin Kaymer,283
+Rory McIlroy,287
+Peter Uihlein,292
+Peter Whiteford,311
+Matteo Manassero,311
+Angel Cabrera,312
+Ian Poulter,313
+Kurt Barnes,315
+Nicolas Colsaerts,335

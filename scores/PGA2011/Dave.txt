@@ -1,0 +1,10 @@
+Sergio Garcia,72,69,69,69
+Phil Mickelson,71,70,69,70
+Bubba Watson,74,68,70,69
+Chris Kirk,72,72,69,69
+Bill Lunde,71,71,69,73
+Rickie Fowler,74,69,75,68
+Davis Love III,68,71,76,79
+Anthony Kim,74,71,--,--
+Jeff Overton,75,71,--,--
+Webb Simpson,75,74,--,--

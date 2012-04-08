@@ -1,0 +1,10 @@
+Phil Mickelson,74,68,66,--
+Padraig Harrington,71,73,68,--
+Ian Poulter,72,72,70,--
+Justin Rose,72,72,72,--
+Miguel Jimenez,69,72,76,--
+Zach Johnson,70,74,75,--
+Charl Schwartzel,72,75,75,--
+Luke Donald,75,73,75,--
+Paul Casey,76,75,--,--
+Mark O'Meara,--,--,--,--

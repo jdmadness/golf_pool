@@ -1,0 +1,10 @@
+Zach Johnson,71,72,73,72
+Kyung-tae Kim,73,71,70,74
+Rory McIlroy,70,73,74,74
+Rory Sabbatini,73,69,73,80
+Brian Gay,72,73,--,--
+Thomas Bjorn,74,71,--,--
+Martin Kaymer,72,73,--,--
+Robert McClellan,78,72,--,--
+Lucas Glover,80,75,--,--
+Jose Maria Olazabal,78,78,--,--

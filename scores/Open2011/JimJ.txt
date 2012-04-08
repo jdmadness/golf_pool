@@ -1,0 +1,10 @@
+Tom Watson,72,70,72,72
+Rory McIlroy,71,69,74,73
+Jason Day,71,70,76,72
+Richard McEvoy,69,72,75,76
+Henrik Stenson,72,71,75,80
+Padraig Harrington,73,71,--,--
+Danny Willett,69,75,--,--
+Graeme McDowell,68,77,--,--
+Ian Poulter,69,78,--,--
+Bernhard Langer,75,73,--,--

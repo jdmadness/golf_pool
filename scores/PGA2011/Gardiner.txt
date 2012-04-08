@@ -1,0 +1,10 @@
+Kevin Na,72,69,70,67
+Bill Haas,68,73,69,69
+Steve Stricker,63,74,69,73
+Chris Kirk,72,72,69,69
+Zach Johnson,71,72,73,72
+Davis Love III,68,71,76,79
+Anthony Kim,74,71,--,--
+Jason Day,71,74,--,--
+Hiroyuki Fujita,73,74,--,--
+Fredrik Jacobson,76,73,--,--

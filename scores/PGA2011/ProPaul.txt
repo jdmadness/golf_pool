@@ -1,0 +1,10 @@
+Lee Westwood,71,68,70,68
+Sergio Garcia,72,69,69,69
+Gary Woodland,70,70,71,68
+Hunter Mahan,72,72,66,70
+Chris Kirk,72,72,69,69
+Jason Day,71,74,--,--
+Cameron Tringale,74,72,--,--
+Hiroyuki Fujita,73,74,--,--
+Vijay Singh,76,74,--,--
+Lucas Glover,80,75,--,--

@@ -1,0 +1,10 @@
+Rickie Fowler,74,69,75,68
+Rory McIlroy,70,73,74,74
+Padraig Harrington,73,69,75,74
+Miguel Jimenez,69,73,72,77
+John Daly,77,76,--,--
+Darren Clarke,78,76,--,--
+Brad Lardon,73,83,--,--
+Jerry Pate,77,79,--,--
+Retief Goosen,75,--,--,--
+Rocco Mediate,79,--,--,--

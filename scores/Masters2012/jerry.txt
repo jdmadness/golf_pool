@@ -1,0 +1,10 @@
+Padraig Harrington,71,73,68,--
+Francesco Molinari,69,75,70,--
+Jim Furyk,70,73,72,--
+Rory McIlroy,71,69,77,--
+Adam Scott,75,70,73,--
+Kevin Chappell,71,76,71,--
+Keegan Bradley,71,77,73,--
+Charl Schwartzel,72,75,75,--
+Luke Donald,75,73,75,--
+Robert Karlsson,74,74,77,--

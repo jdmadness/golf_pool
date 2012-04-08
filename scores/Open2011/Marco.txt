@@ -1,0 +1,10 @@
+Rory McIlroy,71,69,74,73
+Robert Rock,69,71,74,76
+Peter Uihlein,71,71,75,75
+Graeme McDowell,68,77,--,--
+Peter Whiteford,70,75,--,--
+Angel Cabrera,72,74,--,--
+Luke Donald,71,75,--,--
+Ian Poulter,69,78,--,--
+Lucas Bjerregaard,73,75,--,--
+Alvaro Quiros,75,79,--,--

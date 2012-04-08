@@ -1,0 +1,10 @@
+Phil Mickelson,70,69,71,68
+Sergio Garcia,70,70,74,68
+Tom Lehman,71,67,73,75
+Pablo Larrazabal,68,70,76,75
+Richard McEvoy,69,72,75,76
+Justin Leonard,70,74,--,--
+Graeme McDowell,68,77,--,--
+Robert Karlsson,72,74,--,--
+Luke Donald,71,75,--,--
+Mark O`Meara,76,76,--,--

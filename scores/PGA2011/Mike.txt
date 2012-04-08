@@ -1,0 +1,10 @@
+Lee Westwood,71,68,70,68
+Bill Haas,68,73,69,69
+Matt Kuchar,71,71,68,70
+Jonathan Byrd,71,74,--,--
+Jeff Overton,75,71,--,--
+Dustin Johnson,75,72,--,--
+Stewart Cink,69,78,--,--
+Hiroyuki Fujita,73,74,--,--
+Webb Simpson,75,74,--,--
+Craig Stevens,76,77,--,--

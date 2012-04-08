@@ -1,0 +1,10 @@
+Phil Mickelson,70,69,71,68
+Steve Stricker,69,71,72,71
+Zach Johnson,72,68,71,74
+Robert Rock,69,71,74,76
+Justin Rose,72,70,79,70
+K.J. Choi,71,72,75,73
+Kenneth Ferrie,71,71,76,83
+Tadahiro Takayama,70,78,--,--
+Francis McGuirk,77,76,--,--
+Retief Goosen,76,--,--,--

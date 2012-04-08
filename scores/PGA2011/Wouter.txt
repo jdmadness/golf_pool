@@ -1,0 +1,10 @@
+Adam Scott,69,69,70,68
+Sergio Garcia,72,69,69,69
+Hunter Mahan,72,72,66,70
+Chris Kirk,72,72,69,69
+Rory McIlroy,70,73,74,74
+Brian Gay,72,73,--,--
+Thomas Bjorn,74,71,--,--
+Fredrik Jacobson,76,73,--,--
+Lucas Glover,80,75,--,--
+Brian Cairns,85,79,--,--

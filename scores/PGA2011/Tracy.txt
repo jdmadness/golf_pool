@@ -1,0 +1,10 @@
+Gary Woodland,70,70,71,68
+Chris Kirk,72,72,69,69
+Rickie Fowler,74,69,75,68
+Simon Dyson,68,72,71,75
+Rory McIlroy,70,73,74,74
+Thomas Bjorn,74,71,--,--
+Cameron Tringale,74,72,--,--
+Ernie Els,74,72,--,--
+Hiroyuki Fujita,73,74,--,--
+Tiger Woods,77,73,--,--

@@ -1,0 +1,10 @@
+Martin Kaymer,68,69,73,73
+Charl Schwartzel,71,67,75,72
+Tom Lehman,71,67,73,75
+Rory McIlroy,71,69,74,73
+Bubba Watson,69,72,74,74
+Louis Oosthuizen,72,70,74,77
+Angel Cabrera,72,74,--,--
+John Daly,72,74,--,--
+Sandy Lyle,73,76,--,--
+Mark O`Meara,76,76,--,--

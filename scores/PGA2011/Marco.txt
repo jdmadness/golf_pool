@@ -1,0 +1,10 @@
+Nick Watney,70,71,68,70
+Sergio Garcia,72,69,69,69
+Charles Howell III,72,68,73,68
+Bill Lunde,71,71,69,73
+Rory McIlroy,70,73,74,74
+Mike Small,73,71,70,78
+Aaron Baddeley,77,68,--,--
+Bo Van Pelt,73,72,--,--
+Jason Day,71,74,--,--
+Brandt Snedeker,74,73,--,--

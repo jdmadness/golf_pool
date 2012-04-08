@@ -1,0 +1,10 @@
+Lee Westwood,67,73,72,--
+Padraig Harrington,71,73,68,--
+Hunter Mahan,72,72,68,--
+Sang-Moon Bae,75,71,69,--
+Miguel Jimenez,69,72,76,--
+Tiger Woods,72,75,72,--
+Patrick Cantlay,71,78,74,--
+K.J. Choi,77,76,--,--
+Mark Wilson,76,78,--,--
+Jason Day,76,--,--,--

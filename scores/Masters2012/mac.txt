@@ -1,0 +1,10 @@
+Peter Hanson,68,74,65,--
+Nick Watney,71,71,72,--
+Hideki Matsuyama,71,74,72,--
+Zach Johnson,70,74,75,--
+Tiger Woods,72,75,72,--
+Charl Schwartzel,72,75,75,--
+Luke Donald,75,73,75,--
+Edoardo Molinari,75,74,76,--
+Tom Watson,77,74,--,--
+Jason Day,76,--,--,--

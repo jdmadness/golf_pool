@@ -1,0 +1,10 @@
+Adam Scott,69,69,70,68
+Kevin Na,72,69,70,67
+Rory McIlroy,70,73,74,74
+Davis Love III,68,71,76,79
+Brandt Snedeker,74,73,--,--
+Hiroyuki Fujita,73,74,--,--
+Tiger Woods,77,73,--,--
+Louis Oosthuizen,76,74,--,--
+Darren Clarke,78,76,--,--
+Marty Jertson,75,84,--,--

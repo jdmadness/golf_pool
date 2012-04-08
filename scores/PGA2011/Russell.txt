@@ -1,0 +1,10 @@
+Lee Westwood,71,68,70,68
+Gary Woodland,70,70,71,68
+Bubba Watson,74,68,70,69
+Robert Allenby,72,70,71,68
+Spencer Levin,71,70,68,72
+Rickie Fowler,74,69,75,68
+Michael Bradley,70,74,74,70
+Rory Sabbatini,73,69,73,80
+Lucas Glover,80,75,--,--
+David Hutsell,76,80,--,--

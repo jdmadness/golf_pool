@@ -1,0 +1,10 @@
+Adam Scott,69,69,70,68
+Bill Haas,68,73,69,69
+Steve Stricker,63,74,69,73
+Matt Kuchar,71,71,68,70
+Charles Howell III,72,68,73,68
+Davis Love III,68,71,76,79
+Anthony Kim,74,71,--,--
+Geoff Ogilvy,75,71,--,--
+Mark Brooks,73,76,--,--
+Jeff Sorenson,75,83,--,--

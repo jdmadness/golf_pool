@@ -1,0 +1,10 @@
+Davis Love III,70,68,72,72
+Rory McIlroy,71,69,74,73
+Bubba Watson,69,72,74,74
+Gary Boyd,71,70,76,73
+Trevor Immelman,70,72,72,76
+Paul Casey,74,69,78,72
+Padraig Harrington,73,71,--,--
+Luke Donald,71,75,--,--
+Kurt Barnes,68,81,--,--
+Mark O`Meara,76,76,--,--

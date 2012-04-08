@@ -1,0 +1,10 @@
+Adam Scott,69,69,70,68
+Matt Kuchar,71,71,68,70
+Brendon de Jonge,68,72,69,72
+Bill Lunde,71,71,69,73
+Rory McIlroy,70,73,74,74
+Anthony Kim,74,71,--,--
+Alvaro Quiros,73,73,--,--
+Thomas Aiken,76,73,--,--
+Raphael Jacquelin,76,74,--,--
+Brad Lardon,73,83,--,--

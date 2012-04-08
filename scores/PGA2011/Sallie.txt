@@ -1,0 +1,10 @@
+Luke Donald,70,71,68,68
+Bubba Watson,74,68,70,69
+Francesco Molinari,72,71,67,72
+Miguel Jimenez,69,73,72,77
+Martin Kaymer,72,73,--,--
+Hiroyuki Fujita,73,74,--,--
+Robert McClellan,78,72,--,--
+Vijay Singh,76,74,--,--
+Darren Clarke,78,76,--,--
+Rocco Mediate,79,--,--,--

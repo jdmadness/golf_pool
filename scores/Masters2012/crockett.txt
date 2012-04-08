@@ -1,0 +1,10 @@
+Lee Westwood,67,73,72,--
+Fred Couples,72,67,75,--
+Jim Furyk,70,73,72,--
+Justin Rose,72,72,72,--
+Geoff Ogilvy,74,72,71,--
+Graeme McDowell,75,72,71,--
+Tiger Woods,72,75,72,--
+Jose Maria Olazabal,75,76,--,--
+Paul Casey,76,75,--,--
+K.J. Choi,77,76,--,--

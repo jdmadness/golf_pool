@@ -1,0 +1,10 @@
+Dustin Johnson,70,68,68,72
+Phil Mickelson,70,69,71,68
+Davis Love III,70,68,72,72
+Martin Kaymer,68,69,73,73
+Y.E. Yang,71,69,73,72
+Stewart Cink,70,71,77,71
+Bubba Watson,69,72,74,74
+Bernhard Langer,75,73,--,--
+Mark O`Meara,76,76,--,--
+Francis McGuirk,77,76,--,--

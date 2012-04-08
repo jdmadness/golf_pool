@@ -1,0 +1,10 @@
+Nick Watney,70,71,68,70
+Rickie Fowler,74,69,75,68
+Ricky Barnes,69,75,71,72
+Sean O`Hair,71,73,77,70
+Rory McIlroy,70,73,74,74
+Davis Love III,68,71,76,79
+Shaun Micheel,66,78,77,74
+Brian Gay,72,73,--,--
+Craig Stevens,76,77,--,--
+Lucas Glover,80,75,--,--

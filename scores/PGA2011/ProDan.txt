@@ -1,0 +1,10 @@
+Luke Donald,70,71,68,68
+Ross Fisher,71,69,76,69
+Tetsuji Hiratsuka,72,73,--,--
+Alvaro Quiros,73,73,--,--
+Ernie Els,74,72,--,--
+Dustin Johnson,75,72,--,--
+Hiroyuki Fujita,73,74,--,--
+Jamie Donaldson,77,73,--,--
+Tiger Woods,77,73,--,--
+David Hutsell,76,80,--,--

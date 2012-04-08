@@ -1,0 +1,10 @@
+Bubba Watson,69,71,70,--
+Lee Westwood,67,73,72,--
+Padraig Harrington,71,73,68,--
+Ian Poulter,72,72,70,--
+Jim Furyk,70,73,72,--
+Justin Rose,72,72,72,--
+Rory McIlroy,71,69,77,--
+Miguel Jimenez,69,72,76,--
+Robert Karlsson,74,74,77,--
+Craig Stadler,81,82,--,--

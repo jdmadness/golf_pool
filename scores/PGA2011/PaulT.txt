@@ -1,0 +1,10 @@
+D.A. Points,69,67,71,71
+Phil Mickelson,71,70,69,70
+Bubba Watson,74,68,70,69
+Mark Wilson,69,71,71,70
+Chris Kirk,72,72,69,69
+Andres Romero,72,70,74,69
+Jason Day,71,74,--,--
+Brandt Snedeker,74,73,--,--
+Fredrik Jacobson,76,73,--,--
+Rich Beem,74,81,--,--

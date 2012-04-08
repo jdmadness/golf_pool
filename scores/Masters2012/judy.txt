@@ -1,0 +1,10 @@
+Sergio Garcia,72,68,75,--
+Hideki Matsuyama,71,74,72,--
+Geoff Ogilvy,74,72,71,--
+Adam Scott,75,70,73,--
+Graeme McDowell,75,72,71,--
+Aaron Baddeley,71,71,77,--
+Tiger Woods,72,75,72,--
+Steve Stricker,71,77,72,--
+Robert Karlsson,74,74,77,--
+Craig Stadler,81,82,--,--

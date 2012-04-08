@@ -1,0 +1,10 @@
+Paul Lawrie,69,72,72,--
+Jim Furyk,70,73,72,--
+Rory McIlroy,71,69,77,--
+Graeme McDowell,75,72,71,--
+Steve Stricker,71,77,72,--
+Ross Fisher,71,77,73,--
+Martin Kaymer,72,75,75,--
+Martin Laird,76,72,74,--
+Jose Maria Olazabal,75,76,--,--
+K.J. Choi,77,76,--,--

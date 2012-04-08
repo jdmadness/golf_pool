@@ -1,0 +1,10 @@
+Phil Mickelson,70,69,71,68
+Pablo Larrazabal,68,70,76,75
+Bubba Watson,69,72,74,74
+K.J. Choi,71,72,75,73
+Peter Uihlein,71,71,75,75
+Mark Wilson,74,68,75,79
+Matthew Millar,71,72,80,73
+Jung-gon Hwang,68,74,83,79
+Ross Fisher,71,73,--,--
+Luke Donald,71,75,--,--

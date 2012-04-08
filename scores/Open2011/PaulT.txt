@@ -1,0 +1,10 @@
+Charl Schwartzel,71,67,75,72
+Tom Watson,72,70,72,72
+Gregory Havret,72,71,78,73
+Lee Westwood,71,73,--,--
+Peter Whiteford,70,75,--,--
+Angel Cabrera,72,74,--,--
+Luke Donald,71,75,--,--
+Lucas Bjerregaard,73,75,--,--
+Francesco Molinari,73,75,--,--
+Jonathan Byrd,75,74,--,--

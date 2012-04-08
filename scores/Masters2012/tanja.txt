@@ -1,0 +1,10 @@
+Louis Oosthuizen,68,72,69,--
+Lee Westwood,67,73,72,--
+Hunter Mahan,72,72,68,--
+Miguel Jimenez,69,72,76,--
+Tiger Woods,72,75,72,--
+Martin Kaymer,72,75,75,--
+Thomas Bjorn,73,76,74,--
+Kyung-tae Kim,74,76,--,--
+Larry Mize,76,75,--,--
+K.J. Choi,77,76,--,--

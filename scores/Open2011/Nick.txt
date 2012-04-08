@@ -1,0 +1,10 @@
+Sergio Garcia,70,70,74,68
+Tom Lehman,71,67,73,75
+Robert Rock,69,71,74,76
+Henrik Stenson,72,71,75,80
+Lee Westwood,71,73,--,--
+Alejandro Canizares,73,71,--,--
+Nick Watney,74,71,--,--
+Luke Donald,71,75,--,--
+Kurt Barnes,68,81,--,--
+Retief Goosen,76,--,--,--

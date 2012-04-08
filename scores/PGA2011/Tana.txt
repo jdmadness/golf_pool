@@ -1,0 +1,10 @@
+Trevor Immelman,69,71,71,68
+Phil Mickelson,71,70,69,70
+Robert Allenby,72,70,71,68
+Rickie Fowler,74,69,75,68
+Padraig Harrington,73,69,75,74
+Brian Gay,72,73,--,--
+Stewart Cink,69,78,--,--
+Graeme McDowell,74,78,--,--
+Dan Olsen,78,77,--,--
+Jose Maria Olazabal,78,78,--,--

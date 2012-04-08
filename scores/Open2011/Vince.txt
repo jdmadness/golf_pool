@@ -1,0 +1,10 @@
+Fredrik Jacobson,70,70,73,72
+Richard Green,70,71,73,71
+Zach Johnson,72,68,71,74
+Bubba Watson,69,72,74,74
+Spencer Levin,72,69,81,69
+Richard McEvoy,69,72,75,76
+Lee Westwood,71,73,--,--
+Graeme McDowell,68,77,--,--
+Luke Donald,71,75,--,--
+Tadahiro Takayama,70,78,--,--

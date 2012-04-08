@@ -1,0 +1,10 @@
+Luke Donald,70,71,68,68
+Sergio Garcia,72,69,69,69
+Y.E. Yang,71,73,74,74
+Davis Love III,68,71,76,79
+Brian Gay,72,73,--,--
+Dustin Johnson,75,72,--,--
+Brandt Snedeker,74,73,--,--
+Tiger Woods,77,73,--,--
+Rich Beem,74,81,--,--
+Brad Lardon,73,83,--,--

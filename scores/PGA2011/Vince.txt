@@ -1,0 +1,10 @@
+David Toms,72,71,65,67
+Lee Westwood,71,68,70,68
+D.A. Points,69,67,71,71
+Sergio Garcia,72,69,69,69
+Gary Woodland,70,70,71,68
+Matt Kuchar,71,71,68,70
+Chris Kirk,72,72,69,69
+Rickie Fowler,74,69,75,68
+Shaun Micheel,66,78,77,74
+Webb Simpson,75,74,--,--

@@ -1,0 +1,10 @@
+Scott Verplank,67,69,69,70
+Luke Donald,70,71,68,68
+Charl Schwartzel,71,71,66,71
+Bubba Watson,74,68,70,69
+Padraig Harrington,73,69,75,74
+Miguel Jimenez,69,73,72,77
+Larry Nelson,78,75,--,--
+Darren Clarke,78,76,--,--
+Brad Lardon,73,83,--,--
+Rocco Mediate,79,--,--,--

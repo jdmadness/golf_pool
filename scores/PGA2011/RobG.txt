@@ -1,0 +1,10 @@
+Bill Haas,68,73,69,69
+Hunter Mahan,72,72,66,70
+Phil Mickelson,71,70,69,70
+Andres Romero,72,70,74,69
+Rickie Fowler,74,69,75,68
+Y.E. Yang,71,73,74,74
+Davis Love III,68,71,76,79
+Scott Stallings,73,74,--,--
+Sean Dougherty,74,74,--,--
+Robert McClellan,78,72,--,--

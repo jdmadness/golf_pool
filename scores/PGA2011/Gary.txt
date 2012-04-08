@@ -1,0 +1,10 @@
+Luke Donald,70,71,68,68
+Sergio Garcia,72,69,69,69
+Bill Lunde,71,71,69,73
+Jhonattan Vegas,70,68,74,74
+Bryce Molder,74,69,70,74
+Geoff Ogilvy,75,71,--,--
+Dustin Johnson,75,72,--,--
+Martin Laird,73,74,--,--
+Lucas Glover,80,75,--,--
+Marty Jertson,75,84,--,--

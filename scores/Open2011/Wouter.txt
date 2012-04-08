@@ -1,0 +1,10 @@
+Rory McIlroy,71,69,74,73
+Gary Boyd,71,70,76,73
+K.J. Choi,71,72,75,73
+Peter Uihlein,71,71,75,75
+Matthew Millar,71,72,80,73
+Padraig Harrington,73,71,--,--
+Hunter Mahan,75,69,--,--
+Camilo Villegas,71,74,--,--
+Matt Kuchar,74,77,--,--
+Thomas Levet,--,--,--,--

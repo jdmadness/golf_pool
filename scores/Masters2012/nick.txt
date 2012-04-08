@@ -1,0 +1,10 @@
+Ian Poulter,72,72,70,--
+Miguel Jimenez,69,72,76,--
+Adam Scott,75,70,73,--
+Graeme McDowell,75,72,71,--
+Tiger Woods,72,75,72,--
+Luke Donald,75,73,75,--
+Patrick Cantlay,71,78,74,--
+Edoardo Molinari,75,74,76,--
+Alvaro Quiros,78,77,--,--
+Gary Woodland,73,70,85,--

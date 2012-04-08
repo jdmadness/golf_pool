@@ -1,0 +1,10 @@
+Lee Westwood,67,73,72,--
+Padraig Harrington,71,73,68,--
+Rory McIlroy,71,69,77,--
+Zach Johnson,70,74,75,--
+Charl Schwartzel,72,75,75,--
+Gonzalo Fdez-Castano,74,75,76,--
+Jose Maria Olazabal,75,76,--,--
+K.J. Choi,77,76,--,--
+Alvaro Quiros,78,77,--,--
+Jason Day,76,--,--,--

@@ -1,0 +1,10 @@
+Tom Lehman,71,67,73,75
+Matthew Millar,71,72,80,73
+Henrik Stenson,72,71,75,80
+Lee Westwood,71,73,--,--
+Graeme McDowell,68,77,--,--
+Luke Donald,71,75,--,--
+Francesco Molinari,73,75,--,--
+Kevin Na,74,75,--,--
+Mark O`Meara,76,76,--,--
+Alvaro Quiros,75,79,--,--

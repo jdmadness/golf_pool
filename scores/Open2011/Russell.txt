@@ -1,0 +1,10 @@
+Steve Stricker,69,71,72,71
+George Coetzee,69,69,72,74
+Charl Schwartzel,71,67,75,72
+Richard McEvoy,69,72,75,76
+Lee Westwood,71,73,--,--
+Angel Cabrera,72,74,--,--
+Bernhard Langer,75,73,--,--
+Chris Tidland,77,73,--,--
+Ryo Ishikawa,74,80,--,--
+Retief Goosen,76,--,--,--

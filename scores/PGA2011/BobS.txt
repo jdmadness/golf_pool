@@ -1,0 +1,10 @@
+David Toms,72,71,65,67
+Luke Donald,70,71,68,68
+Trevor Immelman,69,71,71,68
+Gary Woodland,70,70,71,68
+Chris Kirk,72,72,69,69
+Rickie Fowler,74,69,75,68
+Ryan Moore,75,69,76,67
+Zach Johnson,71,72,73,72
+Brian Gay,72,73,--,--
+Hiroyuki Fujita,73,74,--,--

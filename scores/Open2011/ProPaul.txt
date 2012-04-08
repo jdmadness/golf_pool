@@ -1,0 +1,10 @@
+Dustin Johnson,70,68,68,72
+Raphael Jacquelin,74,67,71,69
+Rory McIlroy,71,69,74,73
+Richard McEvoy,69,72,75,76
+Peter Uihlein,71,71,75,75
+Justin Leonard,70,74,--,--
+Luke Donald,71,75,--,--
+Ian Poulter,69,78,--,--
+Jonathan Byrd,75,74,--,--
+Nathan Green,74,76,--,--

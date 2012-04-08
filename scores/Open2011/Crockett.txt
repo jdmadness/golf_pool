@@ -1,0 +1,10 @@
+Sergio Garcia,70,70,74,68
+Paul Casey,74,69,78,72
+Lee Westwood,71,73,--,--
+Justin Leonard,70,74,--,--
+Camilo Villegas,71,74,--,--
+Luke Donald,71,75,--,--
+Tadahiro Takayama,70,78,--,--
+Kurt Barnes,68,81,--,--
+Nathan Green,74,76,--,--
+Retief Goosen,76,--,--,--

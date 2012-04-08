@@ -1,0 +1,10 @@
+Sergio Garcia,72,69,69,69
+Phil Mickelson,71,70,69,70
+Robert Allenby,72,70,71,68
+Charles Howell III,72,68,73,68
+Francesco Molinari,72,71,67,72
+Ian Poulter,74,68,70,72
+Miguel Jimenez,69,73,72,77
+Martin Kaymer,72,73,--,--
+Jose Maria Olazabal,78,78,--,--
+Jeff Sorenson,75,83,--,--

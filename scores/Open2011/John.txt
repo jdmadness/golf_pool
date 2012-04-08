@@ -1,0 +1,10 @@
+Sergio Garcia,70,70,74,68
+Davis Love III,70,68,72,72
+Fredrik Jacobson,70,70,73,72
+Tom Watson,72,70,72,72
+Adam Scott,69,70,73,75
+Richard McEvoy,69,72,75,76
+Lee Westwood,71,73,--,--
+Graeme McDowell,68,77,--,--
+Peter Whiteford,70,75,--,--
+Luke Donald,71,75,--,--

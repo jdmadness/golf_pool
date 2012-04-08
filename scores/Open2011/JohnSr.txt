@@ -1,0 +1,10 @@
+Tom Watson,72,70,72,72
+Rory McIlroy,71,69,74,73
+Adam Scott,69,70,73,75
+Justin Rose,72,70,79,70
+K.J. Choi,71,72,75,73
+Richard McEvoy,69,72,75,76
+Camilo Villegas,71,74,--,--
+Angel Cabrera,72,74,--,--
+Luke Donald,71,75,--,--
+Tetsuji Hiratsuka,75,73,--,--

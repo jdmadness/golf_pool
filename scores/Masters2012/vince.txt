@@ -1,0 +1,10 @@
+Bubba Watson,69,71,70,--
+Lee Westwood,67,73,72,--
+Fredrik Jacobson,76,68,70,--
+Rory McIlroy,71,69,77,--
+Adam Scott,75,70,73,--
+Keegan Bradley,71,77,73,--
+Patrick Cantlay,71,78,74,--
+Robert Karlsson,74,74,77,--
+Robert Garrigus,77,75,--,--
+Gary Woodland,73,70,85,--

@@ -1,0 +1,10 @@
+Sergio Garcia,72,68,75,--
+Rory McIlroy,71,69,77,--
+Miguel Jimenez,69,72,76,--
+David Toms,73,73,75,--
+Charl Schwartzel,72,75,75,--
+Martin Kaymer,72,75,75,--
+Luke Donald,75,73,75,--
+Edoardo Molinari,75,74,76,--
+Robert Karlsson,74,74,77,--
+Craig Stadler,81,82,--,--

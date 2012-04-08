@@ -1,0 +1,10 @@
+Sergio Garcia,72,68,75,--
+Rory McIlroy,71,69,77,--
+Miguel Jimenez,69,72,76,--
+Kevin Chappell,71,76,71,--
+Rickie Fowler,74,74,72,--
+Steve Stricker,71,77,72,--
+Angel Cabrera,71,78,71,--
+Charl Schwartzel,72,75,75,--
+Martin Kaymer,72,75,75,--
+Alvaro Quiros,78,77,--,--

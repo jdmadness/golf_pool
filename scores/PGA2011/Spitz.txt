@@ -1,0 +1,10 @@
+Adam Scott,69,69,70,68
+Lee Westwood,71,68,70,68
+Chris Kirk,72,72,69,69
+K.J. Choi,70,73,69,72
+Jhonattan Vegas,70,68,74,74
+Ricky Barnes,69,75,71,72
+Y.E. Yang,71,73,74,74
+Stewart Cink,69,78,--,--
+Tommy Gainey,81,74,--,--
+Rich Beem,74,81,--,--

@@ -1,0 +1,10 @@
+Lee Westwood,71,68,70,68
+Charl Schwartzel,71,71,66,71
+Robert Allenby,72,70,71,68
+Francesco Molinari,72,71,67,72
+Zach Johnson,71,72,73,72
+Darren Clarke,78,76,--,--
+Dan Olsen,78,77,--,--
+Lucas Glover,80,75,--,--
+Jose Maria Olazabal,78,78,--,--
+Rocco Mediate,79,--,--,--

@@ -1,0 +1,10 @@
+Dustin Johnson,70,68,68,72
+Martin Kaymer,68,69,73,73
+Rory McIlroy,71,69,74,73
+Peter Uihlein,71,71,75,75
+Peter Whiteford,70,75,--,--
+Matteo Manassero,73,72,--,--
+Angel Cabrera,72,74,--,--
+Ian Poulter,69,78,--,--
+Kurt Barnes,68,81,--,--
+Nicolas Colsaerts,--,--,--,--
