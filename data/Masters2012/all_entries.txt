@@ -1,420 +1,420 @@
 BEN
-Hunter Mahan,72,72,68,--
-Geoff Ogilvy,74,72,71,--
-Adam Scott,75,70,73,--
-Aaron Baddeley,71,71,77,--
-Tiger Woods,72,75,72,--
-Keegan Bradley,71,77,73,--
-Scott Verplank,73,75,75,--
-Luke Donald,75,73,75,--
+Adam Scott,75,70,73,66
+Hunter Mahan,72,72,68,74
+Geoff Ogilvy,74,72,71,71
+Keegan Bradley,71,77,73,69
+Luke Donald,75,73,75,68
+Tiger Woods,72,75,72,74
+Aaron Baddeley,71,71,77,74
+Scott Verplank,73,75,75,74
 Mark Wilson,76,78,--,--
 Craig Stadler,81,82,--,--
 
 BRYAN
-Padraig Harrington,71,73,68,--
-Hunter Mahan,72,72,68,--
-Jim Furyk,70,73,72,--
-Justin Rose,72,72,72,--
-Rory McIlroy,71,69,77,--
-Miguel Jimenez,69,72,76,--
-Luke Donald,75,73,75,--
+Justin Rose,72,72,72,68
+Padraig Harrington,71,73,68,72
+Jim Furyk,70,73,72,70
+Hunter Mahan,72,72,68,74
+Luke Donald,75,73,75,68
+Rory McIlroy,71,69,77,76
+Miguel Jimenez,69,72,76,81
 Tom Watson,77,74,--,--
 K.J. Choi,77,76,--,--
 Alvaro Quiros,78,77,--,--
 
 BUTCH
-Lee Westwood,67,73,72,--
-Hunter Mahan,72,72,68,--
-Rory McIlroy,71,69,77,--
-Adam Scott,75,70,73,--
-Zach Johnson,70,74,75,--
-Angel Cabrera,71,78,71,--
-Keegan Bradley,71,77,73,--
-Patrick Cantlay,71,78,74,--
+Lee Westwood,67,73,72,68
+Adam Scott,75,70,73,66
+Hunter Mahan,72,72,68,74
+Keegan Bradley,71,77,73,69
+Zach Johnson,70,74,75,72
+Angel Cabrera,71,78,71,71
+Rory McIlroy,71,69,77,76
+Patrick Cantlay,71,78,74,72
 John Senden,74,76,--,--
 Ryan Palmer,75,77,--,--
 
 CROCKETT
-Lee Westwood,67,73,72,--
-Fred Couples,72,67,75,--
-Jim Furyk,70,73,72,--
-Justin Rose,72,72,72,--
-Geoff Ogilvy,74,72,71,--
-Graeme McDowell,75,72,71,--
-Tiger Woods,72,75,72,--
-Jose Maria Olazabal,75,76,--,--
+Lee Westwood,67,73,72,68
+Justin Rose,72,72,72,68
+Jim Furyk,70,73,72,70
+Fred Couples,72,67,75,72
+Graeme McDowell,75,72,71,68
+Geoff Ogilvy,74,72,71,71
+Tiger Woods,72,75,72,74
 Paul Casey,76,75,--,--
+Jose Maria Olazabal,75,76,--,--
 K.J. Choi,77,76,--,--
 
 DANO
-Sang-Moon Bae,75,71,69,--
-Justin Rose,72,72,72,--
-Graeme McDowell,75,72,71,--
-Tiger Woods,72,75,72,--
-Steve Stricker,71,77,72,--
-Keegan Bradley,71,77,73,--
+Justin Rose,72,72,72,68
+Graeme McDowell,75,72,71,68
+Keegan Bradley,71,77,73,69
+Sang-Moon Bae,75,71,69,77
+Tiger Woods,72,75,72,74
+Steve Stricker,71,77,72,75
 Kyle Stanley,75,76,--,--
 Bryden Macpherson,77,76,--,--
 Darren Clarke,73,81,--,--
 Alvaro Quiros,78,77,--,--
 
 DAVE
-Matt Kuchar,71,70,70,--
-Nick Watney,71,71,72,--
-Kevin Chappell,71,76,71,--
-Zach Johnson,70,74,75,--
-Tiger Woods,72,75,72,--
-Martin Kaymer,72,75,75,--
-Luke Donald,75,73,75,--
+Matt Kuchar,71,70,70,69
+Luke Donald,75,73,75,68
+Zach Johnson,70,74,75,72
+Nick Watney,71,71,72,77
+Tiger Woods,72,75,72,74
+Martin Kaymer,72,75,75,72
+Kevin Chappell,71,76,71,76
 John Senden,74,76,--,--
 Kyung-tae Kim,74,76,--,--
 Lucas Glover,75,79,--,--
 
 ERNST
-Phil Mickelson,74,68,66,--
-Padraig Harrington,71,73,68,--
-Ian Poulter,72,72,70,--
-Justin Rose,72,72,72,--
-Miguel Jimenez,69,72,76,--
-Zach Johnson,70,74,75,--
-Charl Schwartzel,72,75,75,--
-Luke Donald,75,73,75,--
+Phil Mickelson,74,68,66,72
+Ian Poulter,72,72,70,69
+Justin Rose,72,72,72,68
+Padraig Harrington,71,73,68,72
+Luke Donald,75,73,75,68
+Zach Johnson,70,74,75,72
+Charl Schwartzel,72,75,75,74
+Miguel Jimenez,69,72,76,81
 Paul Casey,76,75,--,--
 Mark O'Meara,--,--,--,--
 
 FRANKIE
-Paul Lawrie,69,72,72,--
-Jim Furyk,70,73,72,--
-Rory McIlroy,71,69,77,--
-Graeme McDowell,75,72,71,--
-Steve Stricker,71,77,72,--
-Ross Fisher,71,77,73,--
-Martin Kaymer,72,75,75,--
-Martin Laird,76,72,74,--
+Jim Furyk,70,73,72,70
+Graeme McDowell,75,72,71,68
+Paul Lawrie,69,72,72,76
+Rory McIlroy,71,69,77,76
+Martin Kaymer,72,75,75,72
+Ross Fisher,71,77,73,74
+Steve Stricker,71,77,72,75
+Martin Laird,76,72,74,77
 Jose Maria Olazabal,75,76,--,--
 K.J. Choi,77,76,--,--
 
 FREDDY
-Sergio Garcia,72,68,75,--
-Rory McIlroy,71,69,77,--
-Miguel Jimenez,69,72,76,--
-David Toms,73,73,75,--
-Charl Schwartzel,72,75,75,--
-Martin Kaymer,72,75,75,--
-Luke Donald,75,73,75,--
-Edoardo Molinari,75,74,76,--
-Robert Karlsson,74,74,77,--
+Sergio Garcia,72,68,75,71
+Luke Donald,75,73,75,68
+Rory McIlroy,71,69,77,76
+Martin Kaymer,72,75,75,72
+Robert Karlsson,74,74,77,71
+David Toms,73,73,75,75
+Charl Schwartzel,72,75,75,74
+Miguel Jimenez,69,72,76,81
+Edoardo Molinari,75,74,76,74
 Craig Stadler,81,82,--,--
 
 JAMESC
-Louis Oosthuizen,68,72,69,--
-Hunter Mahan,72,72,68,--
-Rory McIlroy,71,69,77,--
-Geoff Ogilvy,74,72,71,--
-Adam Scott,75,70,73,--
-Keegan Bradley,71,77,73,--
-Bo Van Pelt,73,75,75,--
-Luke Donald,75,73,75,--
-Patrick Cantlay,71,78,74,--
+Louis Oosthuizen,68,72,69,69
+Adam Scott,75,70,73,66
+Hunter Mahan,72,72,68,74
+Bo Van Pelt,73,75,75,64
+Geoff Ogilvy,74,72,71,71
+Keegan Bradley,71,77,73,69
+Luke Donald,75,73,75,68
+Rory McIlroy,71,69,77,76
+Patrick Cantlay,71,78,74,72
 Ryan Palmer,75,77,--,--
 
 JERRY
-Padraig Harrington,71,73,68,--
-Francesco Molinari,69,75,70,--
-Jim Furyk,70,73,72,--
-Rory McIlroy,71,69,77,--
-Adam Scott,75,70,73,--
-Kevin Chappell,71,76,71,--
-Keegan Bradley,71,77,73,--
-Charl Schwartzel,72,75,75,--
-Luke Donald,75,73,75,--
-Robert Karlsson,74,74,77,--
+Padraig Harrington,71,73,68,72
+Adam Scott,75,70,73,66
+Jim Furyk,70,73,72,70
+Francesco Molinari,69,75,70,74
+Keegan Bradley,71,77,73,69
+Luke Donald,75,73,75,68
+Rory McIlroy,71,69,77,76
+Kevin Chappell,71,76,71,76
+Robert Karlsson,74,74,77,71
+Charl Schwartzel,72,75,75,74
 
 JIMI
-Hideki Matsuyama,71,74,72,--
-Geoff Ogilvy,74,72,71,--
-Adam Scott,75,70,73,--
-Aaron Baddeley,71,71,77,--
-Tiger Woods,72,75,72,--
-Keegan Bradley,71,77,73,--
-Charl Schwartzel,72,75,75,--
-Luke Donald,75,73,75,--
-Kelly Kraft,74,75,77,--
+Adam Scott,75,70,73,66
+Geoff Ogilvy,74,72,71,71
+Keegan Bradley,71,77,73,69
+Luke Donald,75,73,75,68
+Tiger Woods,72,75,72,74
+Aaron Baddeley,71,71,77,74
+Charl Schwartzel,72,75,75,74
+Hideki Matsuyama,71,74,72,80
+Kelly Kraft,74,75,77,80
 Paul Casey,76,75,--,--
 
 JIMJ
-Lee Westwood,67,73,72,--
-Padraig Harrington,71,73,68,--
-Hunter Mahan,72,72,68,--
-Sang-Moon Bae,75,71,69,--
-Miguel Jimenez,69,72,76,--
-Tiger Woods,72,75,72,--
-Patrick Cantlay,71,78,74,--
+Lee Westwood,67,73,72,68
+Padraig Harrington,71,73,68,72
+Hunter Mahan,72,72,68,74
+Sang-Moon Bae,75,71,69,77
+Tiger Woods,72,75,72,74
+Patrick Cantlay,71,78,74,72
+Miguel Jimenez,69,72,76,81
 K.J. Choi,77,76,--,--
 Mark Wilson,76,78,--,--
 Jason Day,76,--,--,--
 
 JOE
-Lee Westwood,67,73,72,--
-Padraig Harrington,71,73,68,--
-Rory McIlroy,71,69,77,--
-Zach Johnson,70,74,75,--
-Charl Schwartzel,72,75,75,--
-Gonzalo Fdez-Castano,74,75,76,--
+Lee Westwood,67,73,72,68
+Padraig Harrington,71,73,68,72
+Zach Johnson,70,74,75,72
+Rory McIlroy,71,69,77,76
+Charl Schwartzel,72,75,75,74
+Gonzalo Fdez-Castano,74,75,76,77
 Jose Maria Olazabal,75,76,--,--
 K.J. Choi,77,76,--,--
 Alvaro Quiros,78,77,--,--
 Jason Day,76,--,--,--
 
 JOHN
-Bubba Watson,69,71,70,--
-Sean O'Hair,73,70,71,--
-Sergio Garcia,72,68,75,--
-Justin Rose,72,72,72,--
-Charles Howell III,72,70,74,--
-Tiger Woods,72,75,72,--
-Rickie Fowler,74,74,72,--
-Luke Donald,75,73,75,--
-Patrick Cantlay,71,78,74,--
-Trevor Immelman,78,71,76,--
+Bubba Watson,69,71,70,68
+Justin Rose,72,72,72,68
+Sergio Garcia,72,68,75,71
+Charles Howell III,72,70,74,72
+Rickie Fowler,74,74,72,70
+Luke Donald,75,73,75,68
+Sean O'Hair,73,70,71,77
+Tiger Woods,72,75,72,74
+Patrick Cantlay,71,78,74,72
+Trevor Immelman,78,71,76,76
 
 JOHNSR
-Louis Oosthuizen,68,72,69,--
-Padraig Harrington,71,73,68,--
-Fred Couples,72,67,75,--
-Sergio Garcia,72,68,75,--
-Justin Rose,72,72,72,--
-Rory McIlroy,71,69,77,--
-Graeme McDowell,75,72,71,--
-Luke Donald,75,73,75,--
-Jose Maria Olazabal,75,76,--,--
+Louis Oosthuizen,68,72,69,69
+Justin Rose,72,72,72,68
+Padraig Harrington,71,73,68,72
+Fred Couples,72,67,75,72
+Sergio Garcia,72,68,75,71
+Graeme McDowell,75,72,71,68
+Luke Donald,75,73,75,68
+Rory McIlroy,71,69,77,76
 Paul Casey,76,75,--,--
+Jose Maria Olazabal,75,76,--,--
 
 JUDY
-Sergio Garcia,72,68,75,--
-Hideki Matsuyama,71,74,72,--
-Geoff Ogilvy,74,72,71,--
-Adam Scott,75,70,73,--
-Graeme McDowell,75,72,71,--
-Aaron Baddeley,71,71,77,--
-Tiger Woods,72,75,72,--
-Steve Stricker,71,77,72,--
-Robert Karlsson,74,74,77,--
+Adam Scott,75,70,73,66
+Sergio Garcia,72,68,75,71
+Graeme McDowell,75,72,71,68
+Geoff Ogilvy,74,72,71,71
+Tiger Woods,72,75,72,74
+Aaron Baddeley,71,71,77,74
+Steve Stricker,71,77,72,75
+Robert Karlsson,74,74,77,71
+Hideki Matsuyama,71,74,72,80
 Craig Stadler,81,82,--,--
 
 MAC
-Peter Hanson,68,74,65,--
-Nick Watney,71,71,72,--
-Hideki Matsuyama,71,74,72,--
-Zach Johnson,70,74,75,--
-Tiger Woods,72,75,72,--
-Charl Schwartzel,72,75,75,--
-Luke Donald,75,73,75,--
-Edoardo Molinari,75,74,76,--
+Peter Hanson,68,74,65,73
+Luke Donald,75,73,75,68
+Zach Johnson,70,74,75,72
+Nick Watney,71,71,72,77
+Tiger Woods,72,75,72,74
+Charl Schwartzel,72,75,75,74
+Hideki Matsuyama,71,74,72,80
+Edoardo Molinari,75,74,76,74
 Tom Watson,77,74,--,--
 Jason Day,76,--,--,--
 
 MIKE
-Bubba Watson,69,71,70,--
-Lee Westwood,67,73,72,--
-Sang-Moon Bae,75,71,69,--
-Justin Rose,72,72,72,--
-Rory McIlroy,71,69,77,--
-Geoff Ogilvy,74,72,71,--
-Keegan Bradley,71,77,73,--
-Patrick Cantlay,71,78,74,--
+Bubba Watson,69,71,70,68
+Lee Westwood,67,73,72,68
+Justin Rose,72,72,72,68
+Geoff Ogilvy,74,72,71,71
+Keegan Bradley,71,77,73,69
+Sang-Moon Bae,75,71,69,77
+Rory McIlroy,71,69,77,76
+Patrick Cantlay,71,78,74,72
 Ryan Palmer,75,77,--,--
 Alvaro Quiros,78,77,--,--
 
 NANDO
-Lee Westwood,67,73,72,--
-Sergio Garcia,72,68,75,--
-Charles Howell III,72,70,74,--
-Miguel Jimenez,69,72,76,--
-Vijay Singh,70,72,76,--
-Graeme McDowell,75,72,71,--
-Zach Johnson,70,74,75,--
-Tiger Woods,72,75,72,--
-Patrick Cantlay,71,78,74,--
+Lee Westwood,67,73,72,68
+Sergio Garcia,72,68,75,71
+Graeme McDowell,75,72,71,68
+Charles Howell III,72,70,74,72
+Vijay Singh,70,72,76,72
+Zach Johnson,70,74,75,72
+Tiger Woods,72,75,72,74
+Patrick Cantlay,71,78,74,72
+Miguel Jimenez,69,72,76,81
 Jason Day,76,--,--,--
 
 NICK
-Ian Poulter,72,72,70,--
-Miguel Jimenez,69,72,76,--
-Adam Scott,75,70,73,--
-Graeme McDowell,75,72,71,--
-Tiger Woods,72,75,72,--
-Luke Donald,75,73,75,--
-Patrick Cantlay,71,78,74,--
-Edoardo Molinari,75,74,76,--
+Ian Poulter,72,72,70,69
+Adam Scott,75,70,73,66
+Graeme McDowell,75,72,71,68
+Luke Donald,75,73,75,68
+Tiger Woods,72,75,72,74
+Patrick Cantlay,71,78,74,72
+Miguel Jimenez,69,72,76,81
+Edoardo Molinari,75,74,76,74
 Alvaro Quiros,78,77,--,--
 Gary Woodland,73,70,85,--
 
 PAULIE
-Peter Hanson,68,74,65,--
-Phil Mickelson,74,68,66,--
-Louis Oosthuizen,68,72,69,--
-Lee Westwood,67,73,72,--
-Hunter Mahan,72,72,68,--
-Justin Rose,72,72,72,--
-Keegan Bradley,71,77,73,--
-Kelly Kraft,74,75,77,--
+Louis Oosthuizen,68,72,69,69
+Lee Westwood,67,73,72,68
+Phil Mickelson,74,68,66,72
+Peter Hanson,68,74,65,73
+Justin Rose,72,72,72,68
+Hunter Mahan,72,72,68,74
+Keegan Bradley,71,77,73,69
+Kelly Kraft,74,75,77,80
 Kyle Stanley,75,76,--,--
 Robert Garrigus,77,75,--,--
 
 PETER
-Louis Oosthuizen,68,72,69,--
-Ian Poulter,72,72,70,--
-Rory McIlroy,71,69,77,--
-Miguel Jimenez,69,72,76,--
-Angel Cabrera,71,78,71,--
-Charl Schwartzel,72,75,75,--
-Martin Laird,76,72,74,--
-Luke Donald,75,73,75,--
+Louis Oosthuizen,68,72,69,69
+Ian Poulter,72,72,70,69
+Luke Donald,75,73,75,68
+Angel Cabrera,71,78,71,71
+Rory McIlroy,71,69,77,76
+Charl Schwartzel,72,75,75,74
+Miguel Jimenez,69,72,76,81
+Martin Laird,76,72,74,77
 Jose Maria Olazabal,75,76,--,--
 Jason Day,76,--,--,--
 
 PRODAN
-Sean O'Hair,73,70,71,--
-Sergio Garcia,72,68,75,--
-Justin Rose,72,72,72,--
-Rory McIlroy,71,69,77,--
-Kevin Na,71,75,72,--
-Graeme McDowell,75,72,71,--
-Rickie Fowler,74,74,72,--
-Steve Stricker,71,77,72,--
+Justin Rose,72,72,72,68
+Sergio Garcia,72,68,75,71
+Graeme McDowell,75,72,71,68
+Kevin Na,71,75,72,68
+Rickie Fowler,74,74,72,70
+Sean O'Hair,73,70,71,77
+Rory McIlroy,71,69,77,76
+Steve Stricker,71,77,72,75
 Bryden Macpherson,77,76,--,--
 Alvaro Quiros,78,77,--,--
 
 PT
-Louis Oosthuizen,68,72,69,--
-Hunter Mahan,72,72,68,--
-Francesco Molinari,69,75,70,--
-Tiger Woods,72,75,72,--
-Angel Cabrera,71,78,71,--
-Martin Laird,76,72,74,--
-Luke Donald,75,73,75,--
-Patrick Cantlay,71,78,74,--
+Louis Oosthuizen,68,72,69,69
+Hunter Mahan,72,72,68,74
+Francesco Molinari,69,75,70,74
+Luke Donald,75,73,75,68
+Angel Cabrera,71,78,71,71
+Tiger Woods,72,75,72,74
+Patrick Cantlay,71,78,74,72
+Martin Laird,76,72,74,77
 K.J. Choi,77,76,--,--
 Jason Day,76,--,--,--
 
 ROBG
-Henrik Stenson,71,71,70,--
-Hunter Mahan,72,72,68,--
-Jason Dufner,69,70,75,--
-Charles Howell III,72,70,74,--
-Kevin Na,71,75,72,--
-Tiger Woods,72,75,72,--
-Keegan Bradley,71,77,73,--
-Luke Donald,75,73,75,--
+Hunter Mahan,72,72,68,74
+Kevin Na,71,75,72,68
+Charles Howell III,72,70,74,72
+Jason Dufner,69,70,75,75
+Keegan Bradley,71,77,73,69
+Luke Donald,75,73,75,68
+Tiger Woods,72,75,72,74
+Henrik Stenson,71,71,70,81
 Jose Maria Olazabal,75,76,--,--
 Jason Day,76,--,--,--
 
 ROBT
-Bubba Watson,69,71,70,--
-Padraig Harrington,71,73,68,--
-Francesco Molinari,69,75,70,--
-Sergio Garcia,72,68,75,--
-Justin Rose,72,72,72,--
-Zach Johnson,70,74,75,--
-Tiger Woods,72,75,72,--
-Martin Laird,76,72,74,--
-Luke Donald,75,73,75,--
-Patrick Cantlay,71,78,74,--
+Bubba Watson,69,71,70,68
+Justin Rose,72,72,72,68
+Padraig Harrington,71,73,68,72
+Sergio Garcia,72,68,75,71
+Francesco Molinari,69,75,70,74
+Luke Donald,75,73,75,68
+Zach Johnson,70,74,75,72
+Tiger Woods,72,75,72,74
+Patrick Cantlay,71,78,74,72
+Martin Laird,76,72,74,77
 
 RON
-Peter Hanson,68,74,65,--
-Hunter Mahan,72,72,68,--
-Fred Couples,72,67,75,--
-Vijay Singh,70,72,76,--
-Zach Johnson,70,74,75,--
-Tiger Woods,72,75,72,--
-Luke Donald,75,73,75,--
+Peter Hanson,68,74,65,73
+Hunter Mahan,72,72,68,74
+Fred Couples,72,67,75,72
+Vijay Singh,70,72,76,72
+Luke Donald,75,73,75,68
+Zach Johnson,70,74,75,72
+Tiger Woods,72,75,72,74
 Tom Watson,77,74,--,--
 K.J. Choi,77,76,--,--
 Jason Day,76,--,--,--
 
 SALLY
-Bubba Watson,69,71,70,--
-Lee Westwood,67,73,72,--
-Padraig Harrington,71,73,68,--
-Ian Poulter,72,72,70,--
-Jim Furyk,70,73,72,--
-Justin Rose,72,72,72,--
-Rory McIlroy,71,69,77,--
-Miguel Jimenez,69,72,76,--
-Robert Karlsson,74,74,77,--
+Bubba Watson,69,71,70,68
+Lee Westwood,67,73,72,68
+Ian Poulter,72,72,70,69
+Justin Rose,72,72,72,68
+Padraig Harrington,71,73,68,72
+Jim Furyk,70,73,72,70
+Rory McIlroy,71,69,77,76
+Robert Karlsson,74,74,77,71
+Miguel Jimenez,69,72,76,81
 Craig Stadler,81,82,--,--
 
 SPITZ
-Lee Westwood,67,73,72,--
-Padraig Harrington,71,73,68,--
-Fred Couples,72,67,75,--
-Jim Furyk,70,73,72,--
-Graeme McDowell,75,72,71,--
-Tiger Woods,72,75,72,--
-Martin Kaymer,72,75,75,--
+Lee Westwood,67,73,72,68
+Padraig Harrington,71,73,68,72
+Jim Furyk,70,73,72,70
+Fred Couples,72,67,75,72
+Graeme McDowell,75,72,71,68
+Tiger Woods,72,75,72,74
+Martin Kaymer,72,75,75,72
 Tom Watson,77,74,--,--
 K.J. Choi,77,76,--,--
 Mark Wilson,76,78,--,--
 
 TANA
-Lee Westwood,67,73,72,--
-Padraig Harrington,71,73,68,--
-Rory McIlroy,71,69,77,--
-Zach Johnson,70,74,75,--
-Charl Schwartzel,72,75,75,--
-Gonzalo Fdez-Castano,74,75,76,--
+Lee Westwood,67,73,72,68
+Padraig Harrington,71,73,68,72
+Zach Johnson,70,74,75,72
+Rory McIlroy,71,69,77,76
+Charl Schwartzel,72,75,75,74
+Gonzalo Fdez-Castano,74,75,76,77
 Jose Maria Olazabal,75,76,--,--
 K.J. Choi,77,76,--,--
 Alvaro Quiros,78,77,--,--
 Jason Day,76,--,--,--
 
 TANJA
-Louis Oosthuizen,68,72,69,--
-Lee Westwood,67,73,72,--
-Hunter Mahan,72,72,68,--
-Miguel Jimenez,69,72,76,--
-Tiger Woods,72,75,72,--
-Martin Kaymer,72,75,75,--
-Thomas Bjorn,73,76,74,--
+Louis Oosthuizen,68,72,69,69
+Lee Westwood,67,73,72,68
+Hunter Mahan,72,72,68,74
+Thomas Bjorn,73,76,74,69
+Tiger Woods,72,75,72,74
+Martin Kaymer,72,75,75,72
+Miguel Jimenez,69,72,76,81
 Kyung-tae Kim,74,76,--,--
 Larry Mize,76,75,--,--
 K.J. Choi,77,76,--,--
 
 TINA
-Sergio Garcia,72,68,75,--
-Rory McIlroy,71,69,77,--
-Miguel Jimenez,69,72,76,--
-Kevin Chappell,71,76,71,--
-Rickie Fowler,74,74,72,--
-Steve Stricker,71,77,72,--
-Angel Cabrera,71,78,71,--
-Charl Schwartzel,72,75,75,--
-Martin Kaymer,72,75,75,--
+Sergio Garcia,72,68,75,71
+Rickie Fowler,74,74,72,70
+Angel Cabrera,71,78,71,71
+Rory McIlroy,71,69,77,76
+Martin Kaymer,72,75,75,72
+Kevin Chappell,71,76,71,76
+Steve Stricker,71,77,72,75
+Charl Schwartzel,72,75,75,74
+Miguel Jimenez,69,72,76,81
 Alvaro Quiros,78,77,--,--
 
 VINCE
-Bubba Watson,69,71,70,--
-Lee Westwood,67,73,72,--
-Fredrik Jacobson,76,68,70,--
-Rory McIlroy,71,69,77,--
-Adam Scott,75,70,73,--
-Keegan Bradley,71,77,73,--
-Patrick Cantlay,71,78,74,--
-Robert Karlsson,74,74,77,--
+Bubba Watson,69,71,70,68
+Lee Westwood,67,73,72,68
+Adam Scott,75,70,73,66
+Fredrik Jacobson,76,68,70,74
+Keegan Bradley,71,77,73,69
+Rory McIlroy,71,69,77,76
+Patrick Cantlay,71,78,74,72
+Robert Karlsson,74,74,77,71
 Robert Garrigus,77,75,--,--
 Gary Woodland,73,70,85,--
 
 WAYNE
-Padraig Harrington,71,73,68,--
-Hunter Mahan,72,72,68,--
-Adam Scott,75,70,73,--
-Zach Johnson,70,74,75,--
-Tiger Woods,72,75,72,--
-Keegan Bradley,71,77,73,--
-Bo Van Pelt,73,75,75,--
-Luke Donald,75,73,75,--
+Padraig Harrington,71,73,68,72
+Adam Scott,75,70,73,66
+Hunter Mahan,72,72,68,74
+Bo Van Pelt,73,75,75,64
+Keegan Bradley,71,77,73,69
+Luke Donald,75,73,75,68
+Zach Johnson,70,74,75,72
+Tiger Woods,72,75,72,74
 Tom Watson,77,74,--,--
 Darren Clarke,73,81,--,--
 
