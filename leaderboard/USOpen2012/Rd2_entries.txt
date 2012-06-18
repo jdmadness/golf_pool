@@ -1,0 +1,299 @@
+BEN
+Tiger Woods,69,70,--,--
+Retief Goosen,70,70,--,--
+Blake Adams,72,70,--,--
+Rickie Fowler,72,76,--,--
+Charl Schwartzel,73,70,--,--
+Stephen Ames,74,73,--,--
+Dustin Johnson,75,74,--,--
+Robert Rock,75,78,--,--
+Ben Crane,77,73,--,--
+Stewart Cink,77,75,--,--
+Total,435,426
+
+BRYAN
+Tiger Woods,69,70,--,--
+Matt Kuchar,70,73,--,--
+Francesco Molinari,71,76,--,--
+Keegan Bradley,73,73,--,--
+Davis Love III,73,74,--,--
+Rafael Cabrera Bello,74,76,--,--
+Dustin Johnson,75,74,--,--
+Alexander Noren,75,75,--,--
+Patrick Cantlay,76,72,--,--
+Brian Gaffney,77,78,--,--
+Total,430,436
+
+BUTCH
+Rickie Fowler,72,76,--,--
+Robert Garrigus,72,77,--,--
+Charlie Wi,74,70,--,--
+Dustin Johnson,75,74,--,--
+Patrick Cantlay,76,72,--,--
+Mark Wilson,76,73,--,--
+Zach Johnson,77,70,--,--
+Brooks Koepka,77,77,--,--
+Luke Donald,79,72,--,--
+Trevor Immelman,80,75,--,--
+Total,445,431
+
+CROCKETT
+Graeme McDowell,69,72,--,--
+John Peterson,71,70,--,--
+K.J. Choi,73,70,--,--
+Davis Love III,73,74,--,--
+Padraig Harrington,74,70,--,--
+Darron Stiles,75,71,--,--
+Vijay Singh,75,78,--,--
+Bubba Watson,78,71,--,--
+Luke Donald,79,72,--,--
+Hunter Haas,81,74,--,--
+Total,435,424
+
+DANO
+Tiger Woods,69,70,--,--
+Jason Dufner,72,71,--,--
+Webb Simpson,72,73,--,--
+Nicholas Thompson,74,74,--,--
+Carl Pettersson,75,74,--,--
+Robert Rock,75,78,--,--
+Matteo Manassero,76,69,--,--
+Ben Crane,77,73,--,--
+Olin Browne,77,74,--,--
+Peter Hanson,78,75,--,--
+Total,437,430
+
+JENET
+Tiger Woods,69,70,--,--
+Jim Furyk,70,69,--,--
+Branden Grace,71,74,--,--
+Jason Dufner,72,71,--,--
+K.J. Choi,73,70,--,--
+Davis Love III,73,74,--,--
+Padraig Harrington,74,70,--,--
+Rod Pampling,74,73,--,--
+Tommy Biershenk,74,79,--,--
+Stewart Cink,77,75,--,--
+Total,428,423
+
+JERRY
+Tiger Woods,69,70,--,--
+Matt Kuchar,70,73,--,--
+Jason Bohn,70,75,--,--
+Angel Cabrera,72,76,--,--
+Rickie Fowler,72,76,--,--
+Padraig Harrington,74,70,--,--
+Tommy Biershenk,74,79,--,--
+Dustin Johnson,75,74,--,--
+Chez Reavie,80,70,--,--
+Steve Marino,84,78,--,--
+Total,427,432
+
+JOHN
+David Toms,69,70,--,--
+Nick Watney,69,75,--,--
+Aaron Watkins,72,71,--,--
+Charl Schwartzel,73,70,--,--
+Davis Love III,73,74,--,--
+Rod Pampling,74,73,--,--
+Peter Lawrie,74,77,--,--
+Carl Pettersson,75,74,--,--
+Bo Van Pelt,78,70,--,--
+Luke Donald,79,72,--,--
+Total,430,426
+
+JOHNSR
+Graeme McDowell,69,72,--,--
+Matt Kuchar,70,73,--,--
+Angel Cabrera,72,76,--,--
+Kevin Na,74,71,--,--
+Carl Pettersson,75,74,--,--
+Bill Haas,76,73,--,--
+Luke Donald,79,72,--,--
+Chez Reavie,80,70,--,--
+Trevor Immelman,80,75,--,--
+Mark McCormick,82,77,--,--
+Total,436,431
+
+MAC
+Jack Nicklaus,--,--,--,--
+David Toms,69,70,--,--
+Graeme McDowell,69,72,--,--
+Ian Poulter,70,75,--,--
+Aaron Watkins,72,71,--,--
+Angel Cabrera,72,76,--,--
+Darron Stiles,75,71,--,--
+Zach Johnson,77,70,--,--
+Rory McIlroy,77,73,--,--
+Trevor Immelman,80,75,--,--
+Total,427,427
+
+MIKE
+Casey Wittenberg,71,77,--,--
+Jason Dufner,72,71,--,--
+Webb Simpson,72,73,--,--
+Charlie Wi,74,70,--,--
+Bob Estes,74,73,--,--
+Dustin Johnson,75,74,--,--
+Matteo Manassero,76,69,--,--
+Mark Wilson,76,73,--,--
+Rory McIlroy,77,73,--,--
+Brian Gaffney,77,78,--,--
+Total,438,429
+
+NICK
+Tiger Woods,69,70,--,--
+Matt Kuchar,70,73,--,--
+Sergio Garcia,73,71,--,--
+Casey Martin,74,75,--,--
+Y.E. Yang,74,75,--,--
+Tommy Biershenk,74,79,--,--
+Dustin Johnson,75,74,--,--
+Robert Rock,75,78,--,--
+Vijay Singh,75,78,--,--
+Thomas Bjorn,78,71,--,--
+Total,434,434
+
+NIK
+Matt Kuchar,70,73,--,--
+Nicolas Colsaerts,72,69,--,--
+Keegan Bradley,73,73,--,--
+Davis Love III,73,74,--,--
+Tommy Biershenk,74,79,--,--
+Dustin Johnson,75,74,--,--
+Robert Rock,75,78,--,--
+Lucas Glover,76,73,--,--
+Rory McIlroy,77,73,--,--
+Dong-hwan Lee,77,79,--,--
+Total,437,435
+
+PAULIE
+Jack Nicklaus,--,--,--,--
+Matt Kuchar,70,73,--,--
+Michael Allen,71,73,--,--
+Rickie Fowler,72,76,--,--
+Lee Westwood,73,72,--,--
+Davis Love III,73,74,--,--
+Dustin Johnson,75,74,--,--
+Paul Claxton,75,77,--,--
+Kevin Streelman,76,72,--,--
+Lucas Glover,76,73,--,--
+Total,434,437
+
+POTTER
+Tiger Woods,69,70,--,--
+Blake Adams,72,70,--,--
+Jason Dufner,72,71,--,--
+Keegan Bradley,73,73,--,--
+Kevin Na,74,71,--,--
+Aaron Baddeley,75,79,--,--
+Patrick Cantlay,76,72,--,--
+Thomas Bjorn,78,71,--,--
+George Coetzee,78,75,--,--
+Trevor Immelman,80,75,--,--
+Total,435,425
+
+PRODAN
+Tiger Woods,69,70,--,--
+Retief Goosen,70,70,--,--
+Francesco Molinari,71,76,--,--
+Jason Dufner,72,71,--,--
+Alberto Sanchez,72,77,--,--
+Rod Pampling,74,73,--,--
+Jason Day,75,71,--,--
+Dustin Johnson,75,74,--,--
+Robert Rock,75,78,--,--
+Vijay Singh,75,78,--,--
+Total,433,429
+
+PT
+Francesco Molinari,71,76,--,--
+Martin Flores,71,79,--,--
+Hunter Mahan,72,71,--,--
+Angel Cabrera,72,76,--,--
+Martin Kaymer,74,71,--,--
+Peter Lawrie,74,77,--,--
+Carl Pettersson,75,74,--,--
+Dustin Johnson,75,74,--,--
+Shane Bertsch,78,75,--,--
+Luke Donald,79,72,--,--
+Total,434,437
+
+ROBG
+Tiger Woods,69,70,--,--
+Nick Watney,69,75,--,--
+D.A. Points,72,80,--,--
+Gary Woodland,74,77,--,--
+Dustin Johnson,75,74,--,--
+Robert Rock,75,78,--,--
+Scott Langley,76,70,--,--
+Brian Gaffney,77,78,--,--
+Bubba Watson,78,71,--,--
+Steve Marino,84,78,--,--
+Total,434,437
+
+ROBT
+Tiger Woods,69,70,--,--
+Sergio Garcia,73,71,--,--
+Joe Ogilvie,73,75,--,--
+Padraig Harrington,74,70,--,--
+Carl Pettersson,75,74,--,--
+Dustin Johnson,75,74,--,--
+Robert Rock,75,78,--,--
+Zach Johnson,77,70,--,--
+Brian Gaffney,77,78,--,--
+Thomas Bjorn,78,71,--,--
+Total,439,426
+
+TANA
+Francesco Molinari,71,76,--,--
+Rickie Fowler,72,76,--,--
+Jeff Curl,73,75,--,--
+Joe Ogilvie,73,75,--,--
+Dustin Johnson,75,74,--,--
+Phil Mickelson,76,71,--,--
+Lucas Glover,76,73,--,--
+Bubba Watson,78,71,--,--
+Trevor Immelman,80,75,--,--
+Gonzalo Fdez-Castano,80,76,--,--
+Total,440,439
+
+TANJA
+Tiger Woods,69,70,--,--
+Rickie Fowler,72,76,--,--
+Davis Love III,73,74,--,--
+Kevin Na,74,71,--,--
+Stephen Ames,74,73,--,--
+Tommy Biershenk,74,79,--,--
+Vijay Singh,75,78,--,--
+Bubba Watson,78,71,--,--
+Hunter Haas,81,74,--,--
+Miguel Jimenez,81,77,--,--
+Total,436,433
+
+VINCE
+Ryo Ishikawa,71,78,--,--
+Blake Adams,72,70,--,--
+Fredrik Jacobson,72,71,--,--
+Jason Dufner,72,71,--,--
+Keegan Bradley,73,73,--,--
+Bob Estes,74,73,--,--
+Casey Martin,74,75,--,--
+Aaron Baddeley,75,79,--,--
+Stewart Cink,77,75,--,--
+Luke Donald,79,72,--,--
+Total,434,430
+
+WAYNE
+Tiger Woods,69,70,--,--
+Hunter Mahan,72,71,--,--
+Davis Love III,73,74,--,--
+Steve LeBrun,73,75,--,--
+Kevin Na,74,71,--,--
+Ernie Els,75,69,--,--
+Dustin Johnson,75,74,--,--
+Matt Bettencourt,76,77,--,--
+Stewart Cink,77,75,--,--
+Alex Cejka,78,69,--,--
+Total,436,424
+
