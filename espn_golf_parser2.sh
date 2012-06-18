@@ -33,10 +33,11 @@ function scrub(val) {
     player = substr($0, idx+2, idx2-3)
   
     # skip next 6 lines
-    getline
-    getline
-    getline
-    getline
+    # or skip next 2 lines when tournament completes
+    #getline
+    #getline
+    #getline
+    #getline
     getline
     getline
 

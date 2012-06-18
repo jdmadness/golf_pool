@@ -44,4 +44,10 @@ for ENTRY in `find $ENTRY_DIR -type f`
 do
      NAME=`basename $ENTRY .txt`
      fgrep -f $ENTRY $ALLSCORES > $SCORES_DIR/$NAME.txt
+
+     val=`fgrep "Jack Nicklaus" $ENTRY`
+     if [ -n "$val" ]
+     then
+         echo "Jack Nicklaus,--,--,--,--" >> $SCORES_DIR/$NAME.txt
+     fi
 done
